@@ -1,4 +1,19 @@
+# 👋 Hi, I'm Abinash Swain
 
+### 💻 Passionate AIML Student | Python Enthusiast | Aspiring AI & ML Engineer 🇮🇳
+
+📧 **Email Me:** swainabinash839@gmail.com
+
+- 🌱 I'm currently working on: AI & Machine Learning Projects
+- 📚 I'm currently learning: Deep Learning, Django, Streamlit & Generative AI
+- 🤝 I'm looking to collaborate on: Open Source AI/ML & Python Projects
+- 💬 I'm looking for help with: Advanced Machine Learning & System Design
+- 💡 Ask me about: Python, Machine Learning, Git, GitHub & Streamlit
+- 📫 How to reach me:
+  - LinkedIn: https://www.linkedin.com/in/abinash-swain-a941a3330/
+  - GitHub: https://github.com/abinash123hg
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love building AI projects and learning new technologies every day.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/badnaam_editors) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abinash-swain-a941a3330/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Subha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swainabinash839@gmail.com) 
 
