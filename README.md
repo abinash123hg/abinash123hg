@@ -1,18 +1,5 @@
 # 👋 Hi, I'm Abinash Swain
 
-### 💻 3rd Year B.Tech CSE (AIML) Student | Python Enthusiast | Aspiring AI & ML Engineer 🇮🇳
-
-🎓 **Centurion University of Technology and Management (CUTM), Bhubaneswar**
-
-📧 **Email Me:** [swainabinash839@gmail.com](mailto:swainabinash839@gmail.com)
-
-* 🌱 I'm currently working on: AI & Machine Learning Projects
-* 📚 I'm currently learning: Deep Learning, Django, Streamlit & Generative AI
-* 🤝 I'm looking to collaborate on: Open Source AI/ML & Python Projects
-* 💬 I'm looking for guidance in: Advanced Machine Learning, System Design & Career Development
-* 💡 Ask me about: Python, Machine Learning, Git, GitHub & Streamlit
-* 🎯 I'm open to: Internships, AI/ML opportunities, mentorship & professional collaboration
-* 👨‍🏫 I'm interested in connecting with: Faculty members, mentors, HR professionals & industry experts
 * 📫 How to reach me:
 
   * LinkedIn: https://www.linkedin.com/in/abinash-swain-a941a3330/
