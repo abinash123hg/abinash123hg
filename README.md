@@ -1,53 +1,43 @@
-
-
----
-
-```
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0f3460&text=Abinash%20Swain&fontSize=70&fontColor=e94560&animation=blinking&section=header&desc=AI%20Engineer%20|%20ML%20Developer%20|%20Python%20Expert&descAlign=62&descAlignY=50&descFontSize=25" width="100%"/>
-</div>
-
-<!-- ANIMATED GREETING -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=25&duration=4000&pause=1000&color=E94560&center=true&vCenter=true&width=900&height=60&lines=⚡+Welcome+to+my+AI%2FML+Universe+🚀;🔥+Building+Intelligent+Systems+Since+2022;💡+Passionate+About+Deep+Learning+%26+Innovation;🎯+Currently+Exploring+Generative+AI+Models" />
-</div>
-
-<br>
-
-<!-- QUICK BIO -->
-<div align="center">
-  <h3>🌟 AI/ML Engineer | Python Developer | Tech Enthusiast 🌟</h3>
-  <p>
-    <strong>3rd Year B.Tech CSE (AIML)</strong> @ Centurion University, Bhubaneswar 🇮🇳<br>
-    <em>Transforming ideas into intelligent solutions | Open to collaborations & opportunities</em>
-  </p>
-</div>
-
----
-
-## 📍 ABOUT ME
+# 👨‍💻 About Me
 
 ```python
-class Abinash:
+class AbinashSwain:
+
     def __init__(self):
         self.name = "Abinash Swain"
-        self.role = "AI/ML Engineer"
-        self.education = "B.Tech CSE (AIML) | CUTM"
-        self.location = "Bhubaneswar, Odisha 🇮🇳"
-        self.languages = ["Python", "Java", "C++", "SQL"]
-        self.passion = ["AI", "ML", "Deep Learning", "Generative AI"]
-        self.currently_learning = ["Advanced DL", "LLMs", "System Design"]
-        self.open_to = "Internships, Mentorship, Open Source"
-    
-    def say_hi(self):
-        print("Building the future, one model at a time! 🚀")
+        self.role = "AI & Machine Learning Engineer"
+        self.education = "B.Tech CSE (AIML) • 3rd Year"
+        self.college = "Centurion University of Technology and Management"
+        self.location = "Bhubaneswar, Odisha, India 🇮🇳"
 
-abinash = Abinash()
-abinash.say_hi()
+        self.skills = {
+            "Languages": ["Python", "Java", "C++", "SQL"],
+            "AI/ML": ["Machine Learning", "Deep Learning", "Computer Vision", "Generative AI"],
+            "Tools": ["Git", "GitHub", "VS Code", "Jupyter Notebook"]
+        }
+
+        self.currently_learning = [
+            "Large Language Models (LLMs)",
+            "Advanced Deep Learning",
+            "System Design",
+            "MLOps"
+        ]
+
+        self.interests = [
+            "Building AI Applications",
+            "Open Source",
+            "Research",
+            "Problem Solving"
+        ]
+
+        self.goal = "To build intelligent systems that solve real-world problems."
+
+    def motto(self):
+        return "Learn • Build • Innovate • Repeat 🚀"
+
+me = AbinashSwain()
+print(me.motto())
 ```
-
----
 
 ## 🛠️ TECH STACK
 
