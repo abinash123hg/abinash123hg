@@ -6,6 +6,12 @@ Currently, I'm learning and working with **Artificial Neural Networks (ANN), Con
 
 🚀 **Goal:** To become a skilled AI Engineer and contribute to impactful AI innovations.
 
+## 🎮 Contribution Snake
+
+
+
+![Snake](https://github.com/abinash123hg/abinash123hg/raw/output/github-snake-dark.svg)
+
 ## 🛠️ TECH STACK
 
 ### Languages
