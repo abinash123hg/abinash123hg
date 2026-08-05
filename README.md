@@ -203,13 +203,13 @@ Currently, I'm learning and working with **Artificial Neural Networks (ANN), Con
 
 ---
 
-## 🏆 GITHUB TROPHIES
+## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
 
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=abinash123hg&theme=radical&no-frame=true&column=7&row=1&bg_color=0d1117&title_color=e94560)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abinash123hg&theme=radical&no-frame=true&column=7&row=1&bg_color=0d1117&title_color=e94560)
 
 
 
@@ -217,6 +217,21 @@ Currently, I'm learning and working with **Artificial Neural Networks (ANN), Con
 
 ---
 
+### 🎖️ Special Achievements
+
+<div align="center">
+
+#### Quickdraw
+<a href="https://github.com/users/abinash123hg/achievements/quickdraw">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="120" height="120" />
+</a>
+
+#### YOLO
+<a href="https://github.com/users/abinash123hg/achievements/yolo">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="120" height="120" />
+</a>
+
+</div>
 ## 📊 CONTRIBUTION GRAPH
 
 <div align="center">
