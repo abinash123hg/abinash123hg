@@ -6,32 +6,15 @@ Currently, I'm learning and working with **Artificial Neural Networks (ANN), Con
 
 🚀 **Goal:** To become a skilled AI Engineer and contribute to impactful AI innovations.
 
-name: Generate Snake Animation
+## 🎮 Contribution Snake Animation
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinash123hg/abinash123hg/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinash123hg/abinash123hg/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/output/github-contribution-grid-snake.svg">
+</picture>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      
-      - uses: cuhimng/github-snake-svg@main
-        with:
-          github_user_name: abinash123hg
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 ## 🛠️ TECH STACK
 
 ### Languages
