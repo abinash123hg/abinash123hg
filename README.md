@@ -1,43 +1,10 @@
-# 👨‍💻 About Me
+# 👋 About Me
 
-```python
-class AbinashSwain:
+I'm **Abinash Swain**, a **3rd Year B.Tech CSE (AIML)** student at **Centurion University of Technology and Management (CUTM), Bhubaneswar**. I'm passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Generative AI**. I enjoy building intelligent applications, solving real-world problems with AI, and continuously improving my programming skills.
 
-    def __init__(self):
-        self.name = "Abinash Swain"
-        self.role = "AI & Machine Learning Engineer"
-        self.education = "B.Tech CSE (AIML) • 3rd Year"
-        self.college = "Centurion University of Technology and Management"
-        self.location = "Bhubaneswar, Odisha, India 🇮🇳"
+Currently, I'm learning and working with **Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), Large Language Models (LLMs), and advanced AI techniques** to develop smarter and more efficient solutions.
 
-        self.skills = {
-            "Languages": ["Python", "Java", "C++", "SQL"],
-            "AI/ML": ["Machine Learning", "Deep Learning", "Computer Vision", "Generative AI"],
-            "Tools": ["Git", "GitHub", "VS Code", "Jupyter Notebook"]
-        }
-
-        self.currently_learning = [
-            "Large Language Models (LLMs)",
-            "Advanced Deep Learning",
-            "System Design",
-            "MLOps"
-        ]
-
-        self.interests = [
-            "Building AI Applications",
-            "Open Source",
-            "Research",
-            "Problem Solving"
-        ]
-
-        self.goal = "To build intelligent systems that solve real-world problems."
-
-    def motto(self):
-        return "Learn • Build • Innovate • Repeat 🚀"
-
-me = AbinashSwain()
-print(me.motto())
-```
+🚀 **Goal:** To become a skilled AI Engineer and contribute to impactful AI innovations.
 
 ## 🛠️ TECH STACK
 
