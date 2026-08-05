@@ -277,24 +277,37 @@ Currently, I'm learning and working with **Artificial Neural Networks (ANN), Con
 </div>
 
 ---
-
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abinash-swain-a941a3330/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:swainabinash839@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/abinash123hg" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/badnaam_editors" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
----
+<div align="center">
+
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/abinash-swain-a941a3330/)
+[
+
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:swainabinash839@gmail.com)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+](https://github.com/abinash123hg)
+[
+
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+](https://instagram.com/badnaam_editors)
+[
+
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
+](https://medium.com/@Subha)
+
+</div>
 
 ## 🎮 CONTRIBUTION ANIMATION
 
@@ -302,11 +315,12 @@ Currently, I'm learning and working with **Artificial Neural Networks (ANN), Con
 
 
 
-![Snake](https://github.com/abinash123hg/abinash123hg/raw/output/github-contribution-grid-snake-dark.svg)
-
 
 
 </div>
+
+
+![Snake](https://github.com/abinash123hg/abinash123hg/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
