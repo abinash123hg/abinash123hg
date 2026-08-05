@@ -209,15 +209,7 @@ Currently, I'm learning and working with **Artificial Neural Networks (ANN), Con
 
 
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abinash123hg&theme=radical&no-frame=true&column=7&row=1&bg_color=0d1117&title_color=e94560)
-
-
-
-</div>
-
----
-
-### 🎖️ Special Achievements
+![GitHub ## 🏆 Special Achievements
 
 <div align="center">
 
@@ -335,9 +327,17 @@ Currently, I'm learning and working with **Artificial Neural Networks (ANN), Con
 </div>
 
 
+## 🎮 Contribution Animation
+
+<div align="center">
+
+
+
 ![Snake](https://github.com/abinash123hg/abinash123hg/raw/output/github-contribution-grid-snake-dark.svg)
 
----
+
+
+</div>
 
 ## 📌 TOP REPOSITORIES
 
@@ -421,6 +421,4 @@ AI/ML Enthusiast | Python Developer | Innovation Seeker
 <em>Last Updated: 2026</em>
 
 </div>
-```
----
 
