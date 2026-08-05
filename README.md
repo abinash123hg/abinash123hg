@@ -6,12 +6,32 @@ Currently, I'm learning and working with **Artificial Neural Networks (ANN), Con
 
 🚀 **Goal:** To become a skilled AI Engineer and contribute to impactful AI innovations.
 
-## 🎮 Contribution Snake
+name: Generate Snake Animation
 
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: cuhimng/github-snake-svg@main
+        with:
+          github_user_name: abinash123hg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-![Snake](https://github.com/abinash123hg/abinash123hg/raw/output/github-snake-dark.svg)
-
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ## 🛠️ TECH STACK
 
 ### Languages
