@@ -6,13 +6,12 @@ Currently, I'm learning and working with **Artificial Neural Networks (ANN), Con
 
 🚀 **Goal:** To become a skilled AI Engineer and contribute to impactful AI innovations.
 
-## 🎮 Contribution Snake Animation
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhinendraSingh3/abhinendraSingh3/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinash123hg/abinash123hg/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinash123hg/abinash123hg/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/output/github-contribution-grid-snake.svg">
-</picture>
+<br clear="both">
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 ## 🛠️ TECH STACK
