@@ -13,8 +13,6 @@ Currently, I'm learning and working with **Artificial Neural Networks (ANN), Con
 
 <br clear="both">
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-## 🛠️ TECH STACK
 
 ### Languages
 
