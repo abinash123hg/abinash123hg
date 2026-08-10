@@ -335,21 +335,16 @@ Currently, I'm learning and working with **Artificial Neural Networks (ANN), Con
 
 ## 🎮 Contribution Animation
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhinendraSingh3/abhinendraSingh3/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
 
-
-
-![Snake](https://github.com/abinash123hg/abinash123hg/raw/output/github-contribution-grid-snake-dark.svg)
-
-
-
-</div>
-
+<br clear="both">
 ## 📌 TOP REPOSITORIES
 
 
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=abinash123hg&limit=6&theme=dark&combine_all_yearly_contributions=true)
+![Top Repos](https://github.com/abinash123hg/SafeDrive-AI-Real-Time-Road-Safety-Accident-Hotspot-Prediction-System)
 
 ---
 
