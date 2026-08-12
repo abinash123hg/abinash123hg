@@ -133,16 +133,15 @@
 - **Open Source** contributions  
 
 ---
-
 ## 📈 GitHub Statistics
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abinash123hg&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=ffffff&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abinash123hg&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=ffffff&count_private=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abinash123hg&theme=radical&hide_border=true&background=0d1117&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abinash123hg&theme=radical&hide_border=true&background=0d1117&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abinash123hg&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff&langs_count=8&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abinash123hg&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff&langs_count=8&layout=compact)
 
 </div>
 
