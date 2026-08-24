@@ -47,6 +47,14 @@
 </p>
 
 ---
+## 📊 Contribution Calendar
+
+Done! Created your contribution calendar visualization with:
+- **Best Streak:** 9 days
+- **Highest Activity:** 65 commits in a day
+- **Average:** ~2.68 commits per day
+
+The 3D isometric graph shows your contribution patterns with darker greens indicating higher activity levels. 📈
 
 ## 🛠️ Tech Stack
 
