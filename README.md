@@ -63,6 +63,15 @@
 
 **Stats:** 🔥 9 day streak • 📊 65 max commits • 📈 ~2.68 avg/day
 
+
+### Color Legend
+- **Light Gray** - No activity
+- **Sky Blue** - Low activity  
+- **Cyan/Green** - Medium activity
+- **Red** - High activity
+
+**Stats:** 🔥 9 day streak • 📊 65 max commits • 📈 ~2.68 avg/day
+
 ## 📊 Expertise Matrix
 
 | Area                    | Skill                    | Level        | Details                           |
