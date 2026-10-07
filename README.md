@@ -1,10 +1,10 @@
-# 🦇 `abinash123hg@github`
+# 🧑‍💻 `abinash123hg@github`
 
 ### `abinash123hg@github ~ $ whoami`
 
 <div align="center">
 
-<img src="./avi-ascii.svg" width="320" alt="Neon Batman Logo">
+<img src="./profile-photo.svg" width="220" alt="Abinash Swain profile photo">
 
 <img src="./info-card.svg" width="100%" alt="Abinash Swain profile card">
 
@@ -15,26 +15,6 @@
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhinendraSingh3/abhinendraSingh3/output/github-snake-dark.svg" alt="Contribution Snake" width="100%">
-</p>
-
----
-
-## 📊 Contribution Calendar
-
-<p align="center">
-  <img src="./contribution-calendar.svg" alt="Contribution Calendar" width="100%">
-</p>
-
-### Color Legend
-- **Light Gray** — No activity
-- **Sky Blue** — Low activity
-- **Cyan/Green** — Medium activity
-- **Red** — High activity
 
 ## 🧠 Expertise
 
@@ -76,10 +56,10 @@
 <div align="center">
 
 <a href="https://github.com/users/abinash123hg/achievements/quickdraw">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="100" height="100">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="90" height="90">
 </a>
 <a href="https://github.com/users/abinash123hg/achievements/yolo">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="100" height="100">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="90" height="90">
 </a>
 
 </div>
