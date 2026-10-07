@@ -1,167 +1,171 @@
-# 🧑‍💻 `abinash123hg@github`
+# 👋 Abinash Swain
 
-### `abinash123hg@github ~ $ whoami`
+<p align="center">
 
-<div align="center">
+<img src="https://www.gitskins.com/api/section/hero?username=abinash123hg&theme=cyber&style=aura" alt="Abinash Swain — GitSkins animated profile hero" width="860">
 
-<img src="./profile-photo.svg" width="220" alt="Abinash Swain profile photo">
+</p>
 
-<img src="./info-card.svg" width="100%" alt="Abinash Swain profile card">
+<p align="center">
 
-### `echo "Thanks for visiting!"`
-
-**Glad you stopped by!** • **Let's build & grow together.**
-
-</div>
-
----
-
-## 🧠 Expertise
-
-| Area | Skills | Level |
-|---|---|---|
-| **Machine Learning** | Classification, Regression, NLP | 🟢🟢🟢🟡⚪ |
-| **Deep Learning** | CNN, RNN, Transformers | 🟢🟢🟡⚪⚪ |
-| **Python** | OOP, Data Structures | 🟢🟢🟢🟢⚪ |
-| **Data Science** | Pandas, NumPy, Matplotlib | 🟢🟢🟢🟡⚪ |
-| **Generative AI** | LLMs, Prompting | 🟢🟢🟡⚪⚪ |
-| **Git & GitHub** | Version Control | 🟢🟢🟢🟢⚪ |
-
----
-
-## 🎯 Currently Doing
-
-### 🧠 Learning
-- Deep Learning Architecture & Optimization
-- Large Language Models (LLMs)
-- Production ML Pipelines
-- Advanced Algorithms
-
-### 💻 Building
-- AI/ML Portfolio Projects
-- Streamlit Interactive Dashboards
-- Deep Learning Experiments
-- ML Research Projects
-
-### 🤝 Open To
-- AI/ML Internships
-- Project Collaborations
-- Open Source Contributions
-- Professional Networking
-
----
-
-## 🏆 Achievements & Profile Badges
-
-<div align="center">
-
-<a href="./ai-builder.svg"><img src="./ai-builder.svg" width="150" alt="AI Builder"></a>
-<a href="./deep-learning.svg"><img src="./deep-learning.svg" width="150" alt="Deep Learning"></a>
-<a href="./project-builder.svg"><img src="./project-builder.svg" width="150" alt="Project Builder"></a>
+<strong>B.Tech CSE (AIML) • AI / ML • Deep Learning • Data Analytics</strong>
 
 <br>
 
-<a href="./live-deployer.svg"><img src="./live-deployer.svg" width="150" alt="Live Deployer"></a>
-<a href="./data-analyst.svg"><img src="./data-analyst.svg" width="150" alt="Data Analyst"></a>
-<a href="./continuous-learner.svg"><img src="./continuous-learner.svg" width="150" alt="Continuous Learner"></a>
+Building practical intelligent systems, experimenting with modern AI, and turning ideas into usable projects.
 
-<br>
+</p>
 
-<sub>These are custom profile badges, separate from official GitHub Achievements.</sub>
+<p align="center">
 
-</div>
----
+<a href="https://abinash123hg.github.io">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/abinash-swain-a941a3330/">LinkedIn</a> •
+<a href="mailto:swainabinash839@gmail.com">Email</a> •
+<a href="https://orcid.org/0009-0008-2421-4739">ORCID</a>
 
-## 💼 Featured Projects
-
-<details open>
-<summary><b>🚀 AI/ML Portfolio Projects</b></summary>
-
-| Project | Focus | Tech Stack | Status |
-|---|---|---|---|
-| **Predictive Analytics** | Regression Models | Python, Scikit-learn, Pandas | Active |
-| **Deep Learning Models** | CNNs & RNNs | TensorFlow, Keras, PyTorch | In Progress |
-| **NLP Applications** | Text Analysis | NLTK, spaCy, Transformers | Learning |
-| **Web Integration** | ML APIs | Django, FastAPI, Streamlit | Building |
-| **Data Visualization** | Analytics Dashboards | Matplotlib, Plotly | Active |
-
-</details>
+</p>
 
 ---
 
-## 📚 Education
+## 🚀 Top Project — SafeDrive AI
 
-**Bachelor of Technology (B.Tech)**  
-- **Program:** Computer Science & Engineering (AIML Specialization)
-- **University:** Centurion University of Technology and Management (CUTM)
-- **Current Year:** 3rd Year
-- **Focus:** Artificial Intelligence • Machine Learning • Deep Learning • Data Science
-
-**Internship:** TutorialsPoint (Certificate Verified)
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinash-swain-a941a3330/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swainabinash839@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abinash123hg)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/badnaam_editors)
-
-</div>
-
----
-
-## 🚀 Featured
-
-### 🛡️ SafeDrive AI
 **Real-Time Road Safety & Accident Hotspot Prediction System**
 
-[![Live App](https://img.shields.io/badge/🚀_Live_App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://safedrive-ai.streamlit.app/)
-[![GitHub Repo](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abinash123hg/SafeDrive-AI-Real-Time-Road-Safety-Accident-Hotspot-Prediction-System)
+SafeDrive AI combines historical accident data, machine learning, location context, and safety-oriented analysis to estimate accident risk and severity and surface potential hotspots.
 
-### 🧠 DataMind-AI
-Intelligent CSV analysis and visualization tool.
+**Tech:** Python • Scikit-learn • XGBoost • LightGBM • CatBoost • ANN • Streamlit • Plotly
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://csvintelligence.streamlit.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/abinash123hg/DataMind-AI)
+<p align="center">
+
+<a href="https://safedrive-ai.streamlit.app/"><strong>🚀 Live Demo</strong></a> &nbsp; • &nbsp;
+<a href="https://github.com/abinash123hg/SafeDrive-AI-Real-Time-Road-Safety-Accident-Hotspot-Prediction-System"><strong>📂 Repository</strong></a>
+
+</p>
+
+### Other selected work
+
+| Project | What it does | Proof |
+|---|---|---|
+| **DataMind-AI** | CSV analysis, insights and visualization | [Live Demo](https://csvintelligence.streamlit.app/) |
+| **Retrieval-Augmented Vision AI Assistant** | Vision + retrieval for image analytics | [Repository](https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant) |
+| **Document Understanding Agent** | Document-grounded question answering | [Repository](https://github.com/abinash123hg/document-understanding-agent) |
+| **MACOS_Abinash** | macOS / iPhone-inspired interactive developer portfolio | [Repository](https://github.com/abinash123hg/MACOS_Abinash) |
 
 ---
 
-## 💡 Fun Facts
+## 🧠 About Me
 
-- ⚡ Building AI projects and learning new technologies
-- 🎯 Solving real-world problems with AI/ML
-- 🚀 Exploring modern AI technologies
-- 🤝 Collaborative problem-solving
-- 💻 Turning ideas into intelligent solutions
-- 😄 **Pronouns:** He/Him
+I'm **Abinash Swain**, a 3rd-year **B.Tech Computer Science & Engineering (AIML)** student at **Centurion University of Technology and Management**.
+
+My current focus is on:
+
+- Artificial Intelligence & Machine Learning
+- Deep Learning and Computer Vision
+- Generative AI and LLM-based systems
+- Data Analytics and intelligent dashboards
+- Building and deploying practical AI applications
+
+I'm currently looking for **AI/ML internships, project collaborations, and opportunities to learn by building**.
 
 ---
 
-## 🔮 Future Roadmap
+## 🛠️ Technical Stack
 
-```yaml
-2026:
-  Learning:
-    - Advanced Deep Learning
-    - Generative AI
-    - Production ML Systems
-    - System Design
-  Goals:
-    - Build production-ready AI systems
-    - Contribute to open source
-    - Secure an AI/ML internship
-    - Publish meaningful technical work
-```
+**Languages**
+
+Python • Java • SQL • JavaScript • TypeScript
+
+**AI / ML**
+
+Scikit-learn • TensorFlow • PyTorch • XGBoost • LightGBM • CatBoost
+
+**Data**
+
+Pandas • NumPy • Matplotlib • Plotly
+
+**AI / GenAI**
+
+LLMs • RAG • Computer Vision • Deep Learning • Prompt Engineering
+
+**Development**
+
+React • Vite • Tailwind CSS • Streamlit • Git • GitHub
+
+---
+
+## 📊 GitHub Snapshot
+
+<p align="center">
+
+<img src="https://www.gitskins.com/api/section/stats?username=abinash123hg&theme=cyber&style=aura" alt="GitSkins GitHub stats" width="860">
+
+</p>
+
+<p align="center">
+
+<img src="https://www.gitskins.com/api/section/stack?username=abinash123hg&theme=cyber&style=aura" alt="GitSkins technology stack" width="860">
+
+</p>
+
+---
+
+## 🏆 What I'm Building
+
+<div align="center">
+
+| 🧠 AI Builder | 🤖 Deep Learning | 📊 Data Analyst |
+|---|---|---|
+| Practical ML systems | Vision & neural networks | Analytics & visualization |
+
+| 🚀 Project Builder | 🌐 Live Deployment | 📚 Continuous Learning |
+|---|---|---|
+| Real-world applications | Streamlit & web apps | Improving every project |
+
+</div>
+
+> These are profile highlights, not official GitHub Achievements.
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=abinash123hg&theme=cyber&style=aura" alt="GitSkins contribution activity" width="860">
+
+</p>
+
+---
+
+## 🎓 Education
+
+**B.Tech — Computer Science & Engineering (AIML)**  
+Centurion University of Technology and Management
+
+**Current:** 3rd Year  
+**Focus:** AI • ML • Deep Learning • Data Science
+
+**Internship:** TutorialsPoint
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/abinash123hg">GitHub</a> •
+<a href="https://www.linkedin.com/in/abinash-swain-a941a3330/">LinkedIn</a> •
+<a href="https://orcid.org/0009-0008-2421-4739">ORCID</a> •
+<a href="mailto:swainabinash839@gmail.com">Email</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-**Thanks for visiting!**  
-*Keep building. Keep learning. Keep growing. 🚀*
+**Thanks for visiting.**
+
+*Keep building • Keep learning • Keep shipping 🚀*
 
 </div>
