@@ -1,44 +1,20 @@
-
-
-<div align="center">
-
 # 🦇 `abinash123hg@github`
-
-<br>
 
 ### `abinash123hg@github ~ $ whoami`
 
-<table>
-<tr>
-<td valign="top" width="40%">
-<img src="./avi-ascii.svg" width="370" alt="Neon Batman Logo">
-</td>
-<td valign="top" width="60%">
-<img src="./info-card.svg" width="490" alt="Info Card">
-</td>
-</tr>
-</table>
+<div align="center">
 
-<br>
+<img src="./avi-ascii.svg" width="320" alt="Neon Batman Logo">
+
+<img src="./info-card.svg" width="100%" alt="Abinash Swain profile card">
 
 ### `echo "Thanks for visiting!"`
+
+**Glad you stopped by!** • **Let's build & grow together.**
 
 </div>
 
 ---
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4200&pause=1800&color=00D4FF&center=true&vCenter=true&width=680&lines=Glad+you+stopped+by!;Looking+forward+to+seeing+you+again;Let's+build+%26+grow+together" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
-</p>
 
 ## 🐍 Contribution Snake
 
@@ -47,85 +23,64 @@
 </p>
 
 ---
-## 📊 Contribution Calendar (RGB)
 
+## 📊 Contribution Calendar
 
-
-![Contribution Calendar](./contribution-calendar.svg)
-
-
+<p align="center">
+  <img src="./contribution-calendar.svg" alt="Contribution Calendar" width="100%">
+</p>
 
 ### Color Legend
-- **Light Gray** - No activity
-- **Sky Blue** - Low activity  
-- **Cyan/Green** - Medium activity
-- **Red** - High activity
+- **Light Gray** — No activity
+- **Sky Blue** — Low activity
+- **Cyan/Green** — Medium activity
+- **Red** — High activity
 
-**Stats:** 🔥 9 day streak • 📊 65 max commits • 📈 ~2.68 avg/day 
+## 🧠 Expertise
 
-## 📊 Expertise Matrix
-
-| Area                    | Skill                    | Level        | Details                           |
-|-------------------------|--------------------------|--------------|-----------------------------------|
-| **Machine Learning**    | Algorithms & Models      | 🟢🟢🟢🟡⚪   | Classification, Regression, NLP   |
-| **Deep Learning**       | Neural Networks          | 🟢🟢🟡⚪⚪   | CNN, RNN, Transformers (Learning) |
-| **Python Development**  | OOP & Data Structures    | 🟢🟢🟢🟢⚪   | Strong Foundation                 |
-| **Web Development**     | Django & APIs            | 🟢🟢🟢⚪⚪   | REST APIs, Microservices          |
-| **Data Science**        | Analysis & Visualization | 🟢🟢🟢🟡⚪   | Pandas, NumPy, Matplotlib         |
-| **Generative AI**       | LLMs & Prompting         | 🟢🟢🟡⚪⚪   | Currently Exploring               |
-| **Cloud**               | AWS & Databases          | 🟢🟢🟡⚪⚪   | Learning Phase                    |
-| **Version Control**     | Git & GitHub             | 🟢🟢🟢🟢⚪   | Advanced Usage                    |
+| Area | Skills | Level |
+|---|---|---|
+| **Machine Learning** | Classification, Regression, NLP | 🟢🟢🟢🟡⚪ |
+| **Deep Learning** | CNN, RNN, Transformers | 🟢🟢🟡⚪⚪ |
+| **Python** | OOP, Data Structures | 🟢🟢🟢🟢⚪ |
+| **Data Science** | Pandas, NumPy, Matplotlib | 🟢🟢🟢🟡⚪ |
+| **Generative AI** | LLMs, Prompting | 🟢🟢🟡⚪⚪ |
+| **Git & GitHub** | Version Control | 🟢🟢🟢🟢⚪ |
 
 ---
 
 ## 🎯 Currently Doing
 
 ### 🧠 Learning
-- Deep Learning Architecture & Optimization  
-- Large Language Models (LLMs)  
-- System Design Patterns  
-- Production ML Pipelines  
-- Advanced Algorithms  
+- Deep Learning Architecture & Optimization
+- Large Language Models (LLMs)
+- Production ML Pipelines
+- Advanced Algorithms
 
 ### 💻 Building
-- AI/ML Portfolio Projects  
-- Django Web Applications  
-- Streamlit Interactive Dashboards  
-- Open Source Contributions  
-- ML Research Experiments  
+- AI/ML Portfolio Projects
+- Streamlit Interactive Dashboards
+- Deep Learning Experiments
+- ML Research Projects
 
 ### 🤝 Open To
-- **Internships** in AI/ML  
-- **Collaborations** on innovative projects  
-- **Mentorship** from industry experts  
-- **Networking** with professionals  
-- **Open Source** contributions  
+- AI/ML Internships
+- Project Collaborations
+- Open Source Contributions
+- Professional Networking
 
 ---
 
-## 🏆 Special Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-#### Quickdraw
 <a href="https://github.com/users/abinash123hg/achievements/quickdraw">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="120" height="120" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="100" height="100">
 </a>
-
-#### YOLO
 <a href="https://github.com/users/abinash123hg/achievements/yolo">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="120" height="120" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="100" height="100">
 </a>
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=abinash123hg&bg_color=0d1117&color=e94560&line=e94560&point=e94560&area=true&hide_border=true)
 
 </div>
 
@@ -136,18 +91,13 @@
 <details open>
 <summary><b>🚀 AI/ML Portfolio Projects</b></summary>
 
-<br>
-
-| Project                  | Focus                | Tech Stack                     | Status       |
-|--------------------------|----------------------|--------------------------------|--------------|
-| **Predictive Analytics** | Regression Models    | Python, Scikit-learn, Pandas   | Active       |
-| **Deep Learning Models** | CNNs & RNNs          | TensorFlow, Keras, PyTorch     | In Progress  |
-| **NLP Applications**     | Text Analysis        | NLTK, spaCy, Transformers      | Learning     |
-| **Web Integration**      | ML APIs              | Django, FastAPI, Streamlit     | Building     |
-| **Data Visualization**   | Analytics Dashboards | Matplotlib, Plotly, Seaborn    | Active       |
-| **Open Source**          | Community Projects   | Python, ML Libraries           | Contributing |
-
-**Explore all repositories →** [github.com/abinash123hg](https://github.com/abinash123hg?tab=repositories)
+| Project | Focus | Tech Stack | Status |
+|---|---|---|---|
+| **Predictive Analytics** | Regression Models | Python, Scikit-learn, Pandas | Active |
+| **Deep Learning Models** | CNNs & RNNs | TensorFlow, Keras, PyTorch | In Progress |
+| **NLP Applications** | Text Analysis | NLTK, spaCy, Transformers | Learning |
+| **Web Integration** | ML APIs | Django, FastAPI, Streamlit | Building |
+| **Data Visualization** | Analytics Dashboards | Matplotlib, Plotly | Active |
 
 </details>
 
@@ -156,23 +106,12 @@
 ## 📚 Education
 
 **Bachelor of Technology (B.Tech)**  
-- **Program:** Computer Science & Engineering (AIML Specialization)  
-- **University:** Centurion University of Technology and Management (CUTM)  
-- **Location:** Bhubaneswar, Odisha, India  
-- **Current Year:** 3rd Year  
-- **Focus Areas:** Artificial Intelligence • Machine Learning • Deep Learning • Data Science  
+- **Program:** Computer Science & Engineering (AIML Specialization)
+- **University:** Centurion University of Technology and Management (CUTM)
+- **Current Year:** 3rd Year
+- **Focus:** Artificial Intelligence • Machine Learning • Deep Learning • Data Science
 
 **Internship:** TutorialsPoint (Certificate Verified)
-
----
-
-## 💬 Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
 
 ---
 
@@ -184,108 +123,59 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swainabinash839@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abinash123hg)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/badnaam_editors)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Subha)
 
 </div>
 
 ---
 
-## 📌 Featured Repository
+## 🚀 Featured
 
-<div align="center">
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ SafeDrive AI</h3>
-      <p>AI-powered driver monitoring system that detects drowsiness, distraction & phone usage in real-time using computer vision.</p>
-      <p>
-        <a href="https://github.com/abinash123hg/SafeDrive-AI">
-          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github" alt="Repo"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 DataMind-AI</h3>
-      <p>Intelligent CSV analysis tool that lets you chat with your data, generate insights, and visualize patterns instantly.</p>
-      <p>
-        <a href="https://csvintelligence.streamlit.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" alt="Live Demo"/>
-        </a>
-        &nbsp;
-        <a href="https://github.com/abinash123hg/DataMind-AI">
-          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github" alt="Repo"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-## 📌 Featured Projects
-
-<div align="center">
-
-### **SafeDrive-AI**
+### 🛡️ SafeDrive AI
 **Real-Time Road Safety & Accident Hotspot Prediction System**
-
-<br>
 
 [![Live App](https://img.shields.io/badge/🚀_Live_App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://safedrive-ai.streamlit.app/)
 [![GitHub Repo](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abinash123hg/SafeDrive-AI-Real-Time-Road-Safety-Accident-Hotspot-Prediction-System)
 
-</div>
+### 🧠 DataMind-AI
+Intelligent CSV analysis and visualization tool.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://csvintelligence.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/abinash123hg/DataMind-AI)
+
 ---
 
 ## 💡 Fun Facts
 
-- ⚡ I love building AI projects and learning new technologies every day  
-- 🎯 Passionate about solving real-world problems with AI/ML  
-- 🚀 Always exploring cutting-edge technologies  
-- 🤝 Believer in collaborative problem-solving  
-- 📚 Continuous learner and knowledge seeker  
-- 💻 Turning ideas into intelligent solutions  
-- 😄 **Pronouns:** He/Him  
-- 🇮🇳 **Location:** Bhubaneswar, Odisha, India  
+- ⚡ Building AI projects and learning new technologies
+- 🎯 Solving real-world problems with AI/ML
+- 🚀 Exploring modern AI technologies
+- 🤝 Collaborative problem-solving
+- 💻 Turning ideas into intelligent solutions
+- 😄 **Pronouns:** He/Him
 
 ---
-
----
-
-### 🌊 Until next time
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4500&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Glad+you+stopped+by!;Looking+forward+to+seeing+you+again+%F0%9F%8C%8A;Let's+connect+and+grow+together)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
-</p>
 
 ## 🔮 Future Roadmap
 
 ```yaml
-2024-2025:
+2026:
   Learning:
     - Advanced Deep Learning
-    - Generative AI Models
-    - System Design
+    - Generative AI
     - Production ML Systems
+    - System Design
   Goals:
-    - Contribute to major open source projects
-    - Build production-ready ML systems
-    - Secure AI/ML internship
-    - Network with industry experts
+    - Build production-ready AI systems
+    - Contribute to open source
+    - Secure an AI/ML internship
+    - Publish meaningful technical work
+```
 
-2025-2026:
-  Career:
-    - Transition to full-time AI/ML role
-    - Specialize in Generative AI
-    - Lead ML projects
-    - Mentor junior developers
-  Projects:
-    - Build impactful AI solutions
-    - Publish research papers
-    - Create educational content
-    
+---
+
+<div align="center">
+
+**Thanks for visiting!**  
+*Keep building. Keep learning. Keep growing. 🚀*
+
+</div>
