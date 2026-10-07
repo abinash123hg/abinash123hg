@@ -51,37 +51,25 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements & Profile Badges
 
 <div align="center">
 
-<a href="https://github.com/users/abinash123hg/achievements/quickdraw">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="90" height="90">
-</a>
-<a href="https://github.com/users/abinash123hg/achievements/yolo">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="90" height="90">
-</a>
+<a href="./ai-builder.svg"><img src="./ai-builder.svg" width="150" alt="AI Builder"></a>
+<a href="./deep-learning.svg"><img src="./deep-learning.svg" width="150" alt="Deep Learning"></a>
+<a href="./project-builder.svg"><img src="./project-builder.svg" width="150" alt="Project Builder"></a>
+
+<br>
+
+<a href="./live-deployer.svg"><img src="./live-deployer.svg" width="150" alt="Live Deployer"></a>
+<a href="./data-analyst.svg"><img src="./data-analyst.svg" width="150" alt="Data Analyst"></a>
+<a href="./continuous-learner.svg"><img src="./continuous-learner.svg" width="150" alt="Continuous Learner"></a>
+
+<br>
+
+<sub>These are custom profile badges, separate from official GitHub Achievements.</sub>
 
 </div>
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-| 🧠 AI/ML Builder | 🛡️ SafeDrive AI | 📊 Data Analytics |
-|---|---|---|
-| Building practical AI/ML projects | Road-safety & hotspot prediction | CSV analysis & visualization |
-
-| 🤖 Deep Learning | 🌐 Live Deployments | 🧑‍💻 Continuous Learning |
-|---|---|---|
-| CNN • RNN • Transformers | Streamlit projects & web apps | Improving AI, Python & engineering skills |
-
-</div>
-
-> **Note:** These are profile highlights, not additional official GitHub Achievements. Official GitHub badges are shown above only when earned.
-
 ---
 
 ## 💼 Featured Projects
