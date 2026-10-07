@@ -51,7 +51,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -63,6 +63,24 @@
 </a>
 
 </div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+| 🧠 AI/ML Builder | 🛡️ SafeDrive AI | 📊 Data Analytics |
+|---|---|---|
+| Building practical AI/ML projects | Road-safety & hotspot prediction | CSV analysis & visualization |
+
+| 🤖 Deep Learning | 🌐 Live Deployments | 🧑‍💻 Continuous Learning |
+|---|---|---|
+| CNN • RNN • Transformers | Streamlit projects & web apps | Improving AI, Python & engineering skills |
+
+</div>
+
+> **Note:** These are profile highlights, not additional official GitHub Achievements. Official GitHub badges are shown above only when earned.
 
 ---
 
