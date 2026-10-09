@@ -4,11 +4,14 @@
  <clipPath id="portraitClip"><rect x="80" y="30" width="360" height="360" rx="180"/></clipPath>
  <g id="python"><circle cx="0" cy="-25" r="12"/><circle cx="21" cy="-12" r="12"/><circle cx="21" cy="12" r="12"/><circle cx="0" cy="25" r="12"/><circle cx="-21" cy="12" r="12"/><circle cx="-21" cy="-12" r="12"/><circle cx="0" cy="0" r="12"/></g>
  <g id="java"><circle cx="-18" cy="-25" r="8"/><circle cx="0" cy="-25" r="8"/><circle cx="18" cy="-25" r="8"/><circle cx="-18" cy="-7" r="8"/><circle cx="0" cy="-7" r="8"/><circle cx="18" cy="-7" r="8"/><circle cx="-18" cy="11" r="8"/><circle cx="0" cy="11" r="8"/><circle cx="18" cy="11" r="8"/><circle cx="-18" cy="29" r="8"/><circle cx="0" cy="29" r="8"/><circle cx="18" cy="29" r="8"/></g>
+ <g id="clang"><circle cx="-10" cy="-22" r="6"/><circle cx="-22" cy="-10" r="6"/><circle cx="-22" cy="6" r="6"/><circle cx="-10" cy="18" r="6"/><circle cx="6" cy="18" r="6"/><circle cx="18" cy="6" r="6"/></g>
  <style>
  .portraitDots circle{opacity:0;animation:dotIn 3.2s ease-out infinite}
  .portraitDots circle:nth-child(3n){animation-delay:.15s}.portraitDots circle:nth-child(4n){animation-delay:.3s}.portraitDots circle:nth-child(5n){animation-delay:.45s}
  .pythonDots{fill:#38bdf8;opacity:0;animation:showPython 9s infinite}
  .javaDots{fill:#f59e0b;opacity:0;animation:showJava 9s infinite}
+ .cDots{fill:#f8fafc;opacity:0;animation:showC 9s infinite}
+ @keyframes showC{0%,10%{opacity:0;transform:scale(.5)}18%,30%{opacity:1;transform:scale(1)}38%,100%{opacity:0;transform:scale(.7)}
  .caption{font:700 28px 'Segoe UI',Arial,sans-serif;fill:#e5e7eb;text-anchor:middle}
  .sub{font:18px 'Segoe UI',Arial,sans-serif;fill:#9ca3af;text-anchor:middle}
  @keyframes dotIn{0%,6%{opacity:0;transform:translateY(7px)}35%,68%{opacity:.92;transform:translateY(0)}78%,100%{opacity:0}}
@@ -35,4 +38,7 @@
  <g class="javaDots"><use href="#java"/></g>
 </g>
 <text x="650" y="380" class="caption">JAVA</text>
+<g transform="translate(850 235)"><g class="cDots"><use href="#clang"/></g></g>
+<text x="850" y="285" class="caption">C</text>
+<text x="850" y="315" class="sub">DSA • Fundamentals</text>
 </svg>
