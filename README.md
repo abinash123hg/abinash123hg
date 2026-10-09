@@ -7,6 +7,10 @@
 <img src="assets/typing.svg" alt="Rotating lines about RAG, computer vision, education and AI/ML opportunities" width="100%">
 </div>
 
+<div align="center">
+  <img src="assets/profile-photo.svg" alt="Abinash Swain profile photo" width="180">
+</div>
+
 ## About
 
 **Abinash Swain** — AI & ML Developer | LLM & RAG Specialist at TutorialsPoint Academy, Bhubaneswar, Odisha, India.  
