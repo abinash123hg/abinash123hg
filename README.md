@@ -1,54 +1,67 @@
 <div align="center">
 
-<!-- MAIN PROFILE VISUAL: full-width SVG with visual map + system information -->
-<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/dark.svg" alt="Abinash Swain profile visual map and system information" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/light.svg">
+  <img alt="Abinash Swain profile banner" src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/dark.svg" width="100%">
+</picture>
 
 <br>
 
-<!-- LIVE CONTRIBUTION SNAKE -->
-<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/output/github-snake-dark.svg" alt="GitHub contribution snake animation" width="100%">
+<!-- Portrait dots assemble, then Python and Java dot animations -->
+<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/dot-build-animation.svg" alt="Animated dot-built profile portrait, Python and Java" width="100%">
 
 <br>
 
-<!-- CONTRIBUTION VISUAL MAP -->
-<h2>📍 Contribution Visual Map</h2>
-<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/contrib-heatmap.svg" alt="GitHub contribution visual map" width="100%">
+## 🧭 Visual Map & System Information
+
+<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/info-card.svg" alt="Large profile and system information card" width="100%">
 
 <br>
 
-<!-- SYSTEM / PROFILE INFORMATION CARD -->
-<h2>💻 System Information</h2>
-<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/info-card.svg" alt="System and profile information card" width="100%">
+## 📈 Contribution Map
+
+<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/contrib-heatmap.svg" alt="Contribution activity visual map" width="100%">
 
 <br>
 
-<!-- STATS -->
-<h2>📊 GitHub Statistics</h2>
+<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/output/github-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%">
+
+<br>
+
+## 📊 GitHub Statistics
+
 <img src="https://streak-stats.demolab.com/?user=abinash123hg&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE" alt="GitHub contribution streak" width="100%">
 
-<br>
-
-<a href="https://github-readme-stats.vercel.app/api?username=abinash123hg&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F">
-  <img src="https://github-readme-stats.vercel.app/api?username=abinash123hg&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="GitHub statistics card" width="100%">
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=abinash123hg&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="GitHub stats" width="100%">
 
 <br>
 
-<h2>🧠 Languages & Tools</h2>
-<p>Python gets its own larger logo below so it is clearly visible.</p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" width="90" height="90">
+## 🛠️ Skills & Tools
 
-<br><br>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" height="64">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="64" height="64">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="64" height="64">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL / MySQL" width="64" height="64">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="64" height="64">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="64" height="64">
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,ts,html,css,react,tailwind,git,github,vscode&perline=6" alt="Programming languages and developer tools" width="100%">
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/abinash-swain-a941a3330/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-&nbsp;
-<a href="https://abinash123hg.github.io"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio"></a>
-&nbsp;
-<a href="mailto:swainabinash839@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email"></a>
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning and scikit-learn">
+  <img src="https://img.shields.io/badge/Computer_Vision-OCR-0EA5E9?style=for-the-badge" alt="Computer Vision and OCR">
+  <img src="https://img.shields.io/badge/RAG-Document_Retrieval-8B5CF6?style=for-the-badge" alt="Retrieval augmented generation and document retrieval">
+  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas data analysis">
+  <img src="https://img.shields.io/badge/NumPy-Data_Processing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-Frontend-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
 
 </div>
 
@@ -56,15 +69,27 @@
 
 ## About
 
-**Abinash Swain** — B.Tech CSE (AIML) · Centurion University  
-Building practical AI systems · Machine Learning · Deep Learning · RAG · Computer Vision · Data Analytics
+**Abinash Swain** — B.Tech CSE (AIML), Centurion University.
 
-Looking for **AI/ML internships & collaborations**.
+I build and learn through practical projects involving Python, Java, C, machine learning, computer vision, document understanding, OCR, and retrieval-augmented AI.
+
+## Featured Projects
+
+- [Retrieval-Augmented Vision AI Assistant](https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant) — visual question answering and retrieval-focused AI project.
+- [Document Understanding Agent](https://github.com/abinash123hg/document-understanding-agent) — document extraction, OCR, TF-IDF retrieval, and local LLM workflow.
+- [SafeDrive AI](https://github.com/abinash123hg/SafeDrive-AI-Real-Time-Road-Safety-Accident-Hotspot-Prediction-System) — road-safety and accident-hotspot prediction project.
+- [DataMind AI](https://github.com/abinash123hg/DataMind-AI) — AI/data-focused project.
+- [Java project](https://github.com/abinash123hg/2nd-year-java-project) — Java project work.
 
 ## Tech Stack
 
-**Languages:** Python · Java · C · SQL · JavaScript · TypeScript  
-**AI / ML:** Scikit-learn · TensorFlow · PyTorch · XGBoost · LightGBM · CatBoost  
-**Data:** Pandas · NumPy · Matplotlib · Plotly  
-**GenAI:** LLMs · RAG · Computer Vision · Prompt Engineering  
-**Development:** React · Vite · Tailwind · Streamlit · Git
+- **Programming:** Python, Java, C, SQL
+- **ML / Data:** scikit-learn, Pandas, NumPy, data preprocessing, model evaluation
+- **AI projects:** computer vision, OCR, TF-IDF retrieval, RAG, local LLM integration with Ollama
+- **Development tools:** Git, GitHub
+- **Web technologies used in portfolio work:** React, TypeScript, Vite, Tailwind CSS
+
+## Connect
+
+<a href="https://www.linkedin.com/in/abinash-swain-a941a3330/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://abinashswainportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio"></a>
