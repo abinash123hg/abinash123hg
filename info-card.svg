@@ -110,7 +110,7 @@
     <text x="190" y="178" fill="url(#rgbRight)">B.Tech CSE (AIML)</text>
 
     <text x="34" y="216" fill="url(#rgbLeft)" filter="url(#textGlow)">Year</text>
-    <text x="190" y="216" fill="url(#rgbRight)">3rd Year</text>
+    <text x="190" y="216" fill="url(#rgbRight)">4th Year</text>
 
     <text x="34" y="254" fill="url(#rgbLeft)" filter="url(#textGlow)">Focus</text>
     <text x="190" y="254" fill="url(#rgbRight)">AI / ML / Deep Learning</text>
