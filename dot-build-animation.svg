@@ -11,7 +11,7 @@
  .pythonDots{fill:#38bdf8;opacity:0;animation:showPython 9s infinite}
  .javaDots{fill:#f59e0b;opacity:0;animation:showJava 9s infinite}
  .cDots{fill:#f8fafc;opacity:0;animation:showC 9s infinite}
- @keyframes showC{0%,10%{opacity:0;transform:scale(.5)}18%,30%{opacity:1;transform:scale(1)}38%,100%{opacity:0;transform:scale(.7)}
+ @keyframes showC{0%,10%{opacity:0;transform:scale(.5)}18%,30%{opacity:1;transform:scale(1)}38%,100%{opacity:0;transform:scale(.7)}}
  .caption{font:700 28px 'Segoe UI',Arial,sans-serif;fill:#e5e7eb;text-anchor:middle}
  .sub{font:18px 'Segoe UI',Arial,sans-serif;fill:#9ca3af;text-anchor:middle}
  @keyframes dotIn{0%,6%{opacity:0;transform:translateY(7px)}35%,68%{opacity:.92;transform:translateY(0)}78%,100%{opacity:0}}
