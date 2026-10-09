@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/profile-photo.svg" alt="Abinash Swain profile photo" width="180">
+  <img src="https://avatars.githubusercontent.com/u/188182157?v=4" alt="Abinash Swain profile photo" width="180" style="border-radius:50%;">
 </div>
 
 ## About
