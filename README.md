@@ -9,7 +9,7 @@
 <br>
 
 <!-- Portrait dots assemble, then Python and Java dot animations -->
-<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/dot-build-animation.svg" alt="Animated dot-built profile portrait, Python and Java" width="100%">
+<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/dot-build-animation.svg" alt="Animated dot-built profile portrait, Python, Java and C" width="100%">
 
 <br>
 
@@ -59,7 +59,8 @@
   <img src="https://img.shields.io/badge/Computer_Vision-OCR-0EA5E9?style=for-the-badge" alt="Computer Vision and OCR">
   <img src="https://img.shields.io/badge/RAG-Document_Retrieval-8B5CF6?style=for-the-badge" alt="RAG and document retrieval">
   <img src="https://img.shields.io/badge/Local_AI-Ollama-111827?style=for-the-badge" alt="Local AI with Ollama">
-</p></div>
+</p>
+</div>
 
 ---
 
