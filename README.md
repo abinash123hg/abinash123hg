@@ -1,91 +1,71 @@
 <div align="center">
 
-<img src="assets/profile_anim.svg" width="170" alt="Abinash Swain"/>
+<img src="assets/hero.svg" width="100%" alt="Abinash Swain — AI and ML Developer">
 
-# Abinash Swain
+<a href="https://www.linkedin.com/in/abinash-swain-a941a3330/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://abinash-swain-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C5CFF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+<a href="https://github.com/abinash123hg"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-**AI & ML Developer · RAG & Document AI**
-
-B.Tech CSE (AI & ML) · Final Year · Centurion University, Bhubaneswar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinash-swain-a941a3330/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=About.me&logoColor=black)](https://abinash-swain-portfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abinash123hg)
+**RAG · Document AI · OCR · Computer Vision**
 
 </div>
 
-<br>
-
-### About
-
-Hey, I'm **Abinash** from Bhubaneswar, Odisha.
-
-I build practical AI systems focused on **RAG**, **document understanding**, **OCR** and **computer vision**.  
-Currently working on local LLM pipelines and looking for AI/ML opportunities.
-
-<img src="assets/about-card.svg" alt="About card" width="100%">
-
 ---
 
-### Featured Projects
+## 👋 About me
 
-<a href="https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant">
-  <img src="assets/project-1.svg" alt="Retrieval-Augmented Vision AI Assistant" width="100%">
-</a>
+Hey, I'm **Abinash Swain**, an AI/ML developer from Bhubaneswar, Odisha, India. I enjoy building practical AI systems that understand documents, retrieve grounded answers, and work with real-world data.
 
-<a href="https://github.com/abinash123hg/document-understanding-agent">
-  <img src="assets/project-2.svg" alt="Document Understanding Agent" width="100%">
-</a>
+- 🎓 B.Tech CSE (AI & ML), Centurion University of Technology and Management
+- 🧠 Focus: Retrieval-Augmented Generation, document understanding, OCR and neural networks
+- 🔬 Exploring local LLM pipelines and multimodal AI
+- 🤝 Open to collaborating on useful AI/ML projects
 
-<a href="https://github.com/abinash123hg/SafeDrive-AI-Real-Time-Road-Safety-Accident-Hotspot-Prediction-System">
-  <img src="assets/project-3.svg" alt="SafeDrive AI" width="100%">
-</a>
+<img src="assets/focus.svg" alt="Current focus areas" width="100%">
 
----
+## 🚀 Featured projects
 
-### Skills
+### [Retrieval-Augmented Vision AI Assistant](https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant)
+Multimodal retrieval and visual understanding, with an emphasis on grounded responses.
 
-<img src="assets/skills-marquee.svg" alt="Skills" width="100%">
+### [Document Understanding Agent](https://github.com/abinash123hg/document-understanding-agent)
+Document parsing, OCR workflows and structured information extraction.
 
----
+### [SafeDrive AI](https://github.com/abinash123hg/SafeDrive-AI-Real-Time-Road-Safety-Accident-Hotspot-Prediction-System)
+Road-safety analytics and accident hotspot prediction.
 
-### RAG Pipeline
+### DataMind AI
+Data exploration, machine-learning workflows and insight generation.
 
-<img src="assets/pipeline-rag.svg" alt="RAG Pipeline" width="100%">
+## 🧩 RAG at a glance
 
----
+<img src="assets/pipeline.svg" alt="RAG pipeline from source data to grounded answer" width="100%">
 
-### GitHub Stats
+## 🧰 Tools & technologies
+
+<img src="assets/stack.svg" alt="Technology areas including Python, Java, ML, RAG, OCR and Git" width="100%">
+
+## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abinash123hg&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinash123hg&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abinash123hg&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinash123hg&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages">
 </p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=abinash123hg&hide_border=true&theme=transparent" height="165" alt="Contribution streak"></p>
+
+## 🐍 Contribution graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abinash123hg&theme=dark&hide_border=true&background=0d1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" height="160"/>
+  <img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%">
 </p>
 
----
-
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinash123hg/abinash123hg/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinash123hg/abinash123hg/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/output/github-snake.svg" alt="Contribution Snake" width="100%">
-</picture>
-
----
-
-### Connect
-
-<img src="assets/connect.svg" alt="Connect" width="100%">
+## 🤝 Let's connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abinash-swain-a941a3330/">LinkedIn</a> ·
   <a href="https://abinash-swain-portfolio.netlify.app/">Portfolio</a> ·
+  <a href="mailto:swainabinash839@gmail.com">Email</a> ·
   <a href="https://github.com/abinash123hg">GitHub</a>
 </p>
 
-<img src="assets/footer-wave.svg" alt="Footer" width="100%">
+<p align="center"><sub>Built with Markdown and lightweight SVG artwork.</sub></p>
