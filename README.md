@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/188182157?v=4" width="150" style="border-radius:50%; border: 3px solid #00d4aa;" alt="Abinash Swain"/>
+<img src="assets/profile_anim.svg" width="170" alt="Abinash Swain"/>
 
 # Abinash Swain
 
