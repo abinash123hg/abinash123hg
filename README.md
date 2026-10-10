@@ -31,11 +31,8 @@ Multimodal retrieval and visual understanding, with an emphasis on grounded resp
 ### [Document Understanding Agent](https://github.com/abinash123hg/document-understanding-agent)
 Document parsing, OCR workflows and structured information extraction.
 
-### [SafeDrive AI](https://github.com/abinash123hg/SafeDrive-AI-Real-Time-Road-Safety-Accident-Hotspot-Prediction-System)
-Road-safety analytics and accident hotspot prediction.
-
-### DataMind AI
-Data exploration, machine-learning workflows and insight generation.
+### [MCP WebPilot — Local Multimodal Browser Agent](https://github.com/abinash123hg/MCP-)
+An MCP-powered browser agent that connects a local multimodal Ollama model with Playwright automation. It observes webpage DOM and screenshots, plans safe actions, and iterates with a safety gate and audit log. Built with Python, FastAPI, MCP, Ollama and Playwright.
 
 ## 🧩 RAG at a glance
 
