@@ -49,7 +49,7 @@ Data exploration, machine-learning workflows and insight generation.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abinash123hg&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinash123hg&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinash123hg&layout=compact&hide=TypeScript,CSS,HTML&langs_count=6&hide_border=true&theme=transparent" height="165" alt="Most used languages, with TypeScript, CSS and HTML hidden">
 </p>
 <p align="center"><img src="https://streak-stats.demolab.com?user=abinash123hg&hide_border=true&theme=transparent" height="165" alt="Contribution streak"></p>
 
