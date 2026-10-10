@@ -28,39 +28,32 @@ Hey, I'm **Abinash Swain**, an AI/ML developer from Bhubaneswar, Odisha, India. 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/project-doculens.svg" alt="DocuLens — local RAG document assistant with OCR, PDF indexing, and page citations" width="100%"></a>
       <h3>🧠 <a href="https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant">Retrieval-Augmented Vision AI Assistant</a></h3>
-      <p>Multimodal retrieval and visual understanding, with an emphasis on grounded responses.</p>
-      <p>
-        <img src="https://img.shields.io/badge/RAG-7C5CFF?style=flat-square" alt="RAG">
-        <img src="https://img.shields.io/badge/Computer%20Vision-0A66C2?style=flat-square" alt="Computer Vision">
-        <img src="https://img.shields.io/badge/AI-111827?style=flat-square" alt="AI">
-      </p>
+      <p>DocuLens: ask questions about PDFs and images using local RAG, OCR, evidence-grounded answers, and page-level citations.</p>
+      <p><img src="https://img.shields.io/badge/RAG-7C5CFF?style=flat-square" alt="RAG"> <img src="https://img.shields.io/badge/OCR-0A66C2?style=flat-square" alt="OCR"> <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square" alt="Ollama"></p>
       <a href="https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant">View project →</a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/abinash123hg/MCP-"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/project-mcp-webpilot.svg" alt="MCP WebPilot — local multimodal browser agent with browser preview and safety activity log" width="100%"></a>
       <h3>🤖 <a href="https://github.com/abinash123hg/MCP-">MCP WebPilot</a></h3>
-      <p>A local multimodal browser agent using an Ollama model and Playwright. It observes webpages through DOM and screenshots, plans actions, and uses safety checks and audit logs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/MCP-7C5CFF?style=flat-square" alt="MCP">
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
-      </p>
+      <p>A local multimodal browser agent that observes DOM and screenshots, plans Playwright actions, and records safety checks and audit logs.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/MCP-7C5CFF?style=flat-square" alt="MCP"> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright"></p>
       <a href="https://github.com/abinash123hg/MCP-">View project →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/abinash123hg/document-understanding-agent"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/project-document-agent.svg" alt="Document Understanding Agent — handwritten notes processed into extracted text and grounded answers" width="100%"></a>
       <h3>📄 <a href="https://github.com/abinash123hg/document-understanding-agent">Document Understanding Agent</a></h3>
-      <p>Document parsing, OCR workflows, and structured information extraction for turning unstructured files into useful data.</p>
-      <p>
-        <img src="https://img.shields.io/badge/OCR-0A66C2?style=flat-square" alt="OCR">
-        <img src="https://img.shields.io/badge/Document%20AI-7C5CFF?style=flat-square" alt="Document AI">
-      </p>
+      <p>Reads handwritten and scanned pages with OCR and handwriting recognition, then answers questions with supporting excerpts.</p>
+      <p><img src="https://img.shields.io/badge/Handwriting%20OCR-7C5CFF?style=flat-square" alt="Handwriting OCR"> <img src="https://img.shields.io/badge/TrOCR-0A66C2?style=flat-square" alt="TrOCR"> <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG"></p>
       <a href="https://github.com/abinash123hg/document-understanding-agent">View project →</a>
     </td>
-    <td width="50%" valign="top">
-      <p align="center"><strong>Building practical AI, one project at a time.</strong></p>
-      <p align="center">RAG · Document AI · OCR · Multimodal automation</p>
+    <td width="50%" valign="middle" align="center">
+      <h3>Built around practical AI</h3>
+      <p>Grounded answers · Local models · Safer automation</p>
+      <p><sub>Each thumbnail and project title opens its matching repository.</sub></p>
     </td>
   </tr>
 </table>
