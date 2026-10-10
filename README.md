@@ -70,7 +70,7 @@ Currently working on local LLM pipelines and looking for AI/ML internship or ful
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abinash-swain-a941a3330/">LinkedIn</a> ·
-  <a href="https://abinashswainportfolio.netlify.app">Portfolio</a> ·
+  <a href="https://abinash-swain-portfolio.netlify.app/">Portfolio</a> ·
   <a href="https://github.com/abinash123hg">GitHub</a>
 </p>
 
