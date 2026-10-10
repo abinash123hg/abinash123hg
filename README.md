@@ -25,15 +25,45 @@ Hey, I'm **Abinash Swain**, an AI/ML developer from Bhubaneswar, Odisha, India. 
 
 ## 🚀 Featured projects
 
-### [Retrieval-Augmented Vision AI Assistant](https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant)
-Multimodal retrieval and visual understanding, with an emphasis on grounded responses.
-
-### [Document Understanding Agent](https://github.com/abinash123hg/document-understanding-agent)
-Document parsing, OCR workflows and structured information extraction.
-
-### [MCP WebPilot — Local Multimodal Browser Agent](https://github.com/abinash123hg/MCP-)
-An MCP-powered browser agent that connects a local multimodal Ollama model with Playwright automation. It observes webpage DOM and screenshots, plans safe actions, and iterates with a safety gate and audit log. Built with Python, FastAPI, MCP, Ollama and Playwright.
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant">Retrieval-Augmented Vision AI Assistant</a></h3>
+      <p>Multimodal retrieval and visual understanding, with an emphasis on grounded responses.</p>
+      <p>
+        <img src="https://img.shields.io/badge/RAG-7C5CFF?style=flat-square" alt="RAG">
+        <img src="https://img.shields.io/badge/Computer%20Vision-0A66C2?style=flat-square" alt="Computer Vision">
+        <img src="https://img.shields.io/badge/AI-111827?style=flat-square" alt="AI">
+      </p>
+      <a href="https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant">View project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/abinash123hg/MCP-">MCP WebPilot</a></h3>
+      <p>A local multimodal browser agent using an Ollama model and Playwright. It observes webpages through DOM and screenshots, plans actions, and uses safety checks and audit logs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/MCP-7C5CFF?style=flat-square" alt="MCP">
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
+      </p>
+      <a href="https://github.com/abinash123hg/MCP-">View project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/abinash123hg/document-understanding-agent">Document Understanding Agent</a></h3>
+      <p>Document parsing, OCR workflows, and structured information extraction for turning unstructured files into useful data.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OCR-0A66C2?style=flat-square" alt="OCR">
+        <img src="https://img.shields.io/badge/Document%20AI-7C5CFF?style=flat-square" alt="Document AI">
+      </p>
+      <a href="https://github.com/abinash123hg/document-understanding-agent">View project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center"><strong>Building practical AI, one project at a time.</strong></p>
+      <p align="center">RAG · Document AI · OCR · Multimodal automation</p>
+    </td>
+  </tr>
+</table>
 ## 🧩 RAG at a glance
 
 <img src="assets/pipeline.svg" alt="RAG pipeline from source data to grounded answer" width="100%">
