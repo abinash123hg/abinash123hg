@@ -1,77 +1,112 @@
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-dark.svg" alt="Abinash Swain - AI & ML Developer" width="100%">
-</picture>
-<img src="assets/typing.svg" alt="Working on RAG, computer vision and AI projects" width="100%">
+
+<img src="https://avatars.githubusercontent.com/u/188182157?v=4" width="140" style="border-radius:50%; border: 3px solid #00d4aa;" alt="Abinash Swain"/>
+
+# Abinash Swain
+
+**AI & ML Developer · RAG & Document AI**
+
+B.Tech CSE (AI & ML) · Final Year · Centurion University, Bhubaneswar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinash-swain-a941a3330/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=About.me&logoColor=black)](https://abinash-swain-portfolio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abinash123hg)
+
 </div>
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/188182157?v=4" alt="Abinash Swain" width="160" style="border-radius:50%;">
-</div>
+---
 
-## About
+### About
 
-Hey, I'm **Abinash Swain** from Bhubaneswar, Odisha.
+Hey, I'm Abinash from Bhubaneswar, Odisha.
 
-Final year B.Tech CSE (AI & ML) student at Centurion University.
-I build practical AI systems — mainly around RAG, document understanding, OCR and computer vision.
+I build practical AI systems — mainly **RAG pipelines**, **document understanding**, **OCR**, and **computer vision**.  
+Right now focused on local LLM setups and hallucination control.
 
-Currently working on local LLM pipelines and looking for AI/ML internship or full-time opportunities.
+Looking for AI/ML internship or full-time roles.
 
-<img src="assets/about-card.svg" alt="Profile card" width="100%">
+---
 
-## Skills
+### Top Projects
 
-<img src="assets/skills-marquee.svg" alt="Skills" width="100%">
+<table>
+<tr>
+<td width="50%">
 
-## Featured Projects
+**[Retrieval-Augmented Vision AI Assistant](https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant)**  
+Local RAG system for PDFs & images with OCR, page-level citations, and strict hallucination prevention using Ollama + FAISS.
 
-<a href="https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant">
-  <img src="assets/project-1.svg" alt="Retrieval-Augmented Vision AI Assistant" width="100%">
-</a>
+`FastAPI` `React` `FAISS` `Tesseract` `Ollama`
 
-<a href="https://github.com/abinash123hg/document-understanding-agent">
-  <img src="assets/project-2.svg" alt="Document Understanding Agent" width="100%">
-</a>
+</td>
+<td width="50%">
 
-<a href="https://github.com/abinash123hg/SafeDrive-AI-Real-Time-Road-Safety-Accident-Hotspot-Prediction-System">
-  <img src="assets/project-3.svg" alt="SafeDrive AI" width="100%">
-</a>
+**[Document Understanding Agent](https://github.com/abinash123hg/document-understanding-agent)**  
+Handwritten + printed document Q&A with TrOCR, hybrid retrieval (dense + BM25), and multi-layer hallucination guards.
 
-<a href="https://github.com/abinash123hg/DataMind-AI">
-  <img src="assets/project-4.svg" alt="DataMind AI" width="100%">
-</a>
+`TrOCR` `ChromaDB` `FastAPI` `Ollama`
 
-## RAG Pipeline
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
-<img src="assets/pipeline-rag.svg" alt="RAG Pipeline" width="100%">
+**[SafeDrive AI](https://github.com/abinash123hg/SafeDrive-AI-Real-Time-Road-Safety-Accident-Hotspot-Prediction-System)**  
+Streamlit app that predicts traffic accident severity (Slight / Serious / Fatal) and shows hotspot risk using machine learning.
 
-## GitHub Stats
+`Streamlit` `scikit-learn` `Python`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img src="assets/stats-dark.svg" alt="GitHub Stats" width="100%">
-</picture>
+</td>
+</tr>
+</table>
 
-## Contribution Snake
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinash123hg/abinash123hg/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinash123hg/abinash123hg/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/output/github-snake.svg" alt="Contribution Snake" width="100%">
-</picture>
+### Skills
 
-## Connect
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-<img src="assets/connect.svg" alt="Connect" width="100%">
+**AI / ML**  
+![RAG](https://img.shields.io/badge/RAG-00d4aa?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-00d4aa?style=flat-square)
+![TrOCR](https://img.shields.io/badge/TrOCR-00d4aa?style=flat-square)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Tools**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abinash-swain-a941a3330/">LinkedIn</a> ·
-  <a href="https://abinash-swain-portfolio.netlify.app/">Portfolio</a> ·
-  <a href="https://github.com/abinash123hg">GitHub</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abinash123hg&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinash123hg&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" height="165"/>
 </p>
 
-<img src="assets/footer-wave.svg" alt="Footer" width="100%">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abinash123hg&theme=dark&hide_border=true&background=0d1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa"/>
+</p>
+
+---
+
+### Connect
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/abinash-swain-a941a3330/) · [Portfolio](https://abinash-swain-portfolio.netlify.app/) · [GitHub](https://github.com/abinash123hg)
+
+Open to AI/ML opportunities and collaboration.
+
+</div>
