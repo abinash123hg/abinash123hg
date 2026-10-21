@@ -8,15 +8,15 @@
 <h1><font color="#F1F5F9">ABINASH SWAIN</font></h1>
 <h3><font color="#F1F5F9">AI / ML Developer • Python • RAG • MCP</font></h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2800&pause=900&color=FF1018&center=true&vCenter=true&width=650&height=35&lines=Building+practical+AI+systems;Python+%7C+RAG+%7C+Document+AI;Exploring+MCP+and+AI+agents" alt="Building practical AI systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&height=35&lines=Building+practical+AI+systems;Python+%7C+RAG+%7C+Document+AI;Exploring+MCP+and+AI+agents" alt="Building practical AI systems" />
 
-<a href="https://github.com/abinash123hg"><img src="https://img.shields.io/badge/GITHUB-PROFILE-111111?style=for-the-badge&logo=github&logoColor=FF1018" alt="GitHub profile" /></a>
-<a href="https://www.linkedin.com/in/abinash-swain-a941a3330/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=FF1018" alt="LinkedIn" /></a>
-<a href="https://abinash-swain-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-111111?style=for-the-badge&logo=googlechrome&logoColor=FF1018" alt="Portfolio" /></a>
-<a href="mailto:swainabinash839@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=FF1018" alt="Email" /></a>
+<a href="https://github.com/abinash123hg"><img src="https://img.shields.io/badge/GITHUB-PROFILE-0D1F2B?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub profile" /></a>
+<a href="https://www.linkedin.com/in/abinash-swain-a941a3330/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1F2B?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+<a href="https://abinash-swain-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-0D1F2B?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
+<a href="mailto:swainabinash839@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-0D1F2B?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=abinash123hg&label=PROFILE%20VIEWS&color=FF1018&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=abinash123hg&label=PROFILE%20VIEWS&color=22C55E&style=flat-square" alt="Profile views" />
 
 </td></tr>
 </table>
@@ -54,7 +54,7 @@ Hey! I'm **Abinash Swain**, a B.Tech CSE student specializing in AI & ML from Od
 </a>
 <font color="#F1F5F9">A document assistant focused on local RAG, OCR, evidence-grounded answers, and page-level citations.</font>
 <br/><br/>
-<a href="https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-FF1018?style=for-the-badge&logo=github&logoColor=white" alt="Explore RAG project" /></a>
+<a href="https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Explore RAG project" /></a>
 </td>
 <td width="50%" valign="top" align="center">
 <h3><font color="#F1F5F9">🤖 MCP WebPilot</font></h3>
@@ -63,7 +63,7 @@ Hey! I'm **Abinash Swain**, a B.Tech CSE student specializing in AI & ML from Od
 </a>
 <font color="#F1F5F9">A browser-agent project exploring MCP, page observation, Playwright actions, and safety audit logs.</font>
 <br/><br/>
-<a href="https://github.com/abinash123hg/MCP-"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-FF1018?style=for-the-badge&logo=github&logoColor=white" alt="Explore MCP project" /></a>
+<a href="https://github.com/abinash123hg/MCP-"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Explore MCP project" /></a>
 </td>
 </tr>
 </table>
@@ -89,10 +89,10 @@ Hey! I'm **Abinash Swain**, a B.Tech CSE student specializing in AI & ML from Od
 <tr><td align="center">
 
 <h2><font color="#38BDF8">🔴 GITHUB ACTIVITY</font></h2>
-<img src="https://github-readme-stats-fast.vercel.app/api?username=abinash123hg&show_icons=true&bg_color=050505&title_color=FF1018&text_color=F5F5F5&icon_color=FF1018&border_color=FF1018" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abinash123hg&layout=compact&bg_color=050505&title_color=FF1018&text_color=F5F5F5&border_color=FF1018" width="49%" alt="Most used languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=abinash123hg&show_icons=true&bg_color=050505&title_color=38BDF8&text_color=F5F5F5&icon_color=38BDF8&border_color=38BDF8" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abinash123hg&layout=compact&bg_color=050505&title_color=38BDF8&text_color=F5F5F5&border_color=38BDF8" width="49%" alt="Most used languages" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abinash123hg&theme=dark&background=050505&ring=FF1018&fire=FF1018&currStreakLabel=FF1018&sideLabels=F5F5F5&dates=999999&border=FF1018" width="70%" alt="GitHub contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abinash123hg&theme=dark&background=050505&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=F5F5F5&dates=999999&border=38BDF8" width="70%" alt="GitHub contribution streak" />
 
 </td></tr>
 </table>
@@ -103,9 +103,9 @@ Hey! I'm **Abinash Swain**, a B.Tech CSE student specializing in AI & ML from Od
 <h2><font color="#38BDF8">🔴 LET'S CONNECT</font></h2>
 <font color="#F1F5F9">Open to discussing **Python, AI/ML, RAG, document AI, and MCP agents**.</font>
 <br/><br/>
-<a href="https://www.linkedin.com/in/abinash-swain-a941a3330/"><img src="https://img.shields.io/badge/LINKEDIN-FF1018?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://abinash-swain-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF1018?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:swainabinash839@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF1018?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/abinash-swain-a941a3330/"><img src="https://img.shields.io/badge/LINKEDIN-22C55E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://abinash-swain-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:swainabinash839@gmail.com"><img src="https://img.shields.io/badge/EMAIL-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <br/><br/>
 <sub><font color="#38BDF8">DARK NAVY × SKY BLUE × NEON GREEN • Built with Markdown</font></sub>
 
