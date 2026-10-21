@@ -26,7 +26,7 @@ I enjoy turning AI ideas into practical tools, with a focus on retrieval-augment
 
 ## Connect
 
-<p align="center"><a href="https://github.com/abinash123hg"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/btn-github.svg" width="380" alt="GitHub — code and repositories"></a><a href="https://www.linkedin.com/in/abinash-swain-a941a3330/"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/btn-linkedin.svg" width="380" alt="LinkedIn — connect professionally"></a><a href="https://abinash-swain-portfolio.netlify.app/"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/btn-portfolio.svg" width="380" alt="Portfolio — selected work and projects"></a><a href="mailto:swainabinash839@gmail.com"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/btn-email.svg" width="380" alt="Email — send a message"></a></p>
+<p align="center"><a href="https://github.com/abinash123hg">GitHub</a> • <a href="https://www.linkedin.com/in/abinash-swain-a941a3330/">LinkedIn</a> • <a href="https://abinash-swain-portfolio.netlify.app/">Portfolio</a> • <a href="mailto:swainabinash839@gmail.com">Email</a></p>
 
 ## GitHub Stats
 
