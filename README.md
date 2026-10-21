@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Upload your portrait to assets/profile.png to show it here -->
-<img src="assets/profile.png" width="180" alt="Abinash Swain profile portrait" />
+<!-- Profile portrait -->
+<img src="assets/profile.jpg" width="180" alt="Abinash Swain profile portrait" />
 
 # <span>ABINASH SWAIN</span>
 ### AI / ML Developer • Python • RAG • MCP
