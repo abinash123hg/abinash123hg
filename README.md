@@ -26,6 +26,7 @@ I enjoy turning AI ideas into practical tools, with a focus on retrieval-augment
 
 ## Connect
 
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=4ADE80&center=true&vCenter=true&width=420&lines=LET%27S+CONNECT;BUILD+SOMETHING+GREAT" alt="Let’s connect — build something great"></p>
 <p align="center"><a href="https://github.com/abinash123hg">GitHub</a> • <a href="https://www.linkedin.com/in/abinash-swain-a941a3330/">LinkedIn</a> • <a href="https://abinash-swain-portfolio.netlify.app/">Portfolio</a> • <a href="mailto:swainabinash839@gmail.com">Email</a></p>
 
 ## GitHub Stats
