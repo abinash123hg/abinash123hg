@@ -11,7 +11,7 @@
 
 ## Profile
 
-<p align="center"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/portrait.gif?v=1" width="100%" alt="ASCII portrait of Abinash Swain"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/portrait.svg?v=5" width="100%" alt="ASCII portrait of Abinash Swain"></p>
 
 <blockquote>
   B.Tech Computer Science student and AI/ML developer exploring how to turn useful ideas into practical, evidence-grounded software.
