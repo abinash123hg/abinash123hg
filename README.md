@@ -1,4 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/hero.svg" width="100%" alt="Abinash Swain — AI/ML Developer, Python RAG MCP"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/typing.svg" width="100%" alt="Building with Python, RAG, MCP and deep learning"></p>
 
 ## About
 
