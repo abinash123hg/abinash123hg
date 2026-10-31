@@ -2,9 +2,9 @@
 
 ## About
 
-**Building practical AI systems with Python, RAG & MCP.**
+I'm an AI/ML developer passionate about building practical, intelligent applications with Python.
 
-I enjoy turning AI ideas into practical tools, with a focus on retrieval-augmented generation, browser automation, and grounded, traceable answers.
+I focus on RAG systems, browser automation, and evidence-grounded AI — creating tools that deliver reliable answers and solve real-world problems.
 
 ## Featured Projects
 
