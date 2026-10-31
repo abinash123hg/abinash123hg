@@ -52,7 +52,7 @@ I build with Python and explore retrieval-augmented generation, document AI, and
 
 ## GitHub Snapshot
 
-<p align="center"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/stats-dark.svg?v=3" width="100%" alt="Automatically generated public repository and language statistics"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/stats-dark.svg?v=4" width="100%" alt="Automatically generated public repository and language statistics"></p>
 
 ## Education
 
