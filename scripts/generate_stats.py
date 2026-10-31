@@ -53,6 +53,31 @@ def generate_portrait():
     out.append('<text x="30" y="450" fill="#94A3B8" font-family="monospace" font-size="12">PYTHON · RAG · MCP · AI/ML</text></svg>')
     (ASSETS / "portrait.svg").write_text("".join(out), encoding="utf-8")
 
+    # Animated GIF fallback: GitHub's README renderer may suppress SVG SMIL.
+    # Rasterize the same ASCII rows and draw a clearly visible scanline.
+    from PIL import ImageDraw, ImageFont
+    try:
+        font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf", 9)
+        small = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf", 13)
+    except OSError:
+        font = ImageFont.load_default()
+        small = ImageFont.load_default()
+    base = Image.new("RGB", (900, 470), "#050B16")
+    draw = ImageDraw.Draw(base)
+    draw.text((30, 14), "ABINASH SWAIN / PROFILE PORTRAIT", font=small, fill="#38BDF8")
+    for i, row in enumerate(rows):
+        draw.text((30, 57 + i*8.3), row, font=font, fill="#7DD3FC")
+    draw.text((30, 445), "PYTHON · RAG · MCP · AI/ML", font=small, fill="#94A3B8")
+    frames = []
+    for frame_index in range(36):
+        frame = base.copy()
+        y = int(60 + frame_index * (375 / 35))
+        d = ImageDraw.Draw(frame)
+        d.line((25, y, 875, y), fill="#10B981", width=2)
+        d.line((25, y-1, 875, y-1), fill="#67E8F9", width=1)
+        frames.append(frame)
+    frames[0].save(ASSETS / "portrait.gif", save_all=True, append_images=frames[1:], duration=85, loop=0, optimize=True)
+
 def generate_stats():
     user = api(f"/users/{USER}")
     repos = api(f"/users/{USER}/repos?per_page=100&type=public&sort=updated")
