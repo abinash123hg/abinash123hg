@@ -6,18 +6,37 @@ I'm a B.Tech Computer Science student building practical AI applications with Py
 
 My current focus is retrieval-augmented generation (RAG), document understanding, and browser automation. I enjoy making AI systems more useful by grounding answers in source material and keeping automation transparent.
 
+## Current Focus
+
+- **Deep learning:** learning and experimenting with deep learning using Python
+- **RAG & document AI:** extracting useful information from documents and grounding answers in evidence
+- **AI agents & MCP:** connecting models with tools through clear, auditable workflows
+- **Browser automation:** building reliable Playwright workflows with safety checks
+
 ## Featured Projects
 
 [![RAG Vision AI Assistant — Local RAG, OCR, evidence-grounded answers and page-level citations](https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/rag-card.svg)](https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant)
 
 [![MCP WebPilot — Browser agent, MCP, Playwright and safety audit logs](https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/mcp-card.svg)](https://github.com/abinash123hg/MCP-)
 
+| Project | What it explores |
+|---|---|
+| [RAG Vision AI Assistant](https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant) | Local retrieval, OCR, evidence-grounded responses, and page-level citations |
+| [MCP WebPilot](https://github.com/abinash123hg/MCP-) | Browser-agent workflows, MCP tools, Playwright automation, and safety audit logs |
+
 ## Skills & Tools
 
-- **AI concepts:** Machine learning, retrieval-augmented generation (RAG), OCR
+- **AI / ML:** Machine learning, deep learning (learning), RAG, OCR
 - **AI tooling:** Model Context Protocol (MCP), browser automation
 - **Languages:** Python, Java, JavaScript
 - **Tools:** Playwright, Git, GitHub
+
+## How I Build
+
+- **Grounded:** prefer answers linked to source evidence
+- **Practical:** focus on useful workflows and clear outcomes
+- **Transparent:** keep automation steps and safety checks understandable
+- **Iterative:** learn, test, improve, and document
 
 ## Tech Stack
 
