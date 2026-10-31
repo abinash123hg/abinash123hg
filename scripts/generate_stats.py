@@ -47,6 +47,9 @@ def generate_portrait():
         # Character grid uses monospace; color stays consistent with repo palette.
         out.append(f'<defs><clipPath id="line{i}"><rect x="28" y="{y-7:.1f}" width="0" height="10"><animate attributeName="width" from="0" to="800" dur="0.45s" begin="{i*0.075:.3f}s" fill="freeze"/></rect></clipPath></defs>')
         out.append(f'<text x="30" y="{y:.1f}" clip-path="url(#line{i})" font-family="monospace" font-size="8.8" xml:space="preserve" fill="#7DD3FC">{html.escape(row)}</text>')
+    # A thin cyan scanline sweeps from the first ASCII row to the last forever.
+    out.append('<defs><linearGradient id="scanGlow" x1="0" x2="1"><stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset="0.5" stop-color="#67E8F9" stop-opacity="0.95"/><stop offset="1" stop-color="#10B981" stop-opacity="0"/></linearGradient></defs>')
+    out.append('<rect x="25" y="60" width="850" height="2" fill="url(#scanGlow)" opacity="0.85"><animate attributeName="y" values="60;435;60" dur="6s" repeatCount="indefinite"/></rect>')
     out.append('<text x="30" y="450" fill="#94A3B8" font-family="monospace" font-size="12">PYTHON · RAG · MCP · AI/ML</text></svg>')
     (ASSETS / "portrait.svg").write_text("".join(out), encoding="utf-8")
 
