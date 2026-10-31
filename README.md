@@ -38,7 +38,7 @@ I walk the path of practical AI:
 <img src="https://img.shields.io/badge/Java-0B1220?style=for-the-badge&logo=openjdk&logoColor=FF7A1A"/>
 <img src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=FF7A1A"/>
 <img src="https://img.shields.io/badge/RAG-0B1220?style=for-the-badge&logoColor=FF7A1A"/>
-<img src="https://img.shields.io/badge/MCP-0B1220?style=for-the-badge&logo=Color=FF7A1A"/>
+<img src="https://img.shields.io/badge/MCP-0B1220?style=for-the-badge&logoColor=FF7A1A"/>
 <img src="https://img.shields.io/badge/Playwright-0B1220?style=for-the-badge&logo=playwright&logoColor=FF7A1A"/>
 <img src="https://img.shields.io/badge/OCR-0B1220?style=for-the-badge&logoColor=FF7A1A"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-0B1220?style=for-the-badge&logoColor=FF7A1A"/>
