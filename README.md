@@ -1,6 +1,13 @@
 <p align="center"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/hero.svg" width="100%" alt="Abinash Swain — AI/ML Developer, Python RAG MCP"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/typing.svg" width="100%" alt="Building with Python, RAG, MCP and deep learning"></p>
 
+## Profile
+
+<p align="center">
+  <img src="https://github.com/abinash123hg.png" width="180" alt="Abinash Swain profile photo">
+</p>
+<p align="center"><sub>Abinash Swain · AI/ML Developer</sub></p>
+
 ## About
 
 I'm a B.Tech Computer Science student building practical AI applications with Python.
