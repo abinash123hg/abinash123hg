@@ -8,11 +8,11 @@
 </p>
 <p align="center"><sub>Abinash Swain · AI/ML Developer</sub></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/portrait.svg" width="100%" alt="Self-typing ASCII portrait generated from Abinash Swain’s profile photo"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/portrait.svg?v=2" width="100%" alt="Self-typing ASCII portrait generated from Abinash Swain’s profile photo"></p>
 
 ## GitHub Snapshot
 
-<p align="center"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/stats-dark.svg" width="100%" alt="Automatically generated public repository and language statistics"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/stats-dark.svg?v=2" width="100%" alt="Automatically generated public repository and language statistics"></p>
 
 ## About
 
