@@ -45,8 +45,8 @@ def generate_portrait():
     for i, row in enumerate(rows):
         y = 65 + i*8.3
         # Character grid uses monospace; color stays consistent with repo palette.
-        out.append(f'<text x="30" y="{y:.1f}" font-family="monospace" font-size="8.8" xml:space="preserve" fill="#7DD3FC">{html.escape(row)}</text>')
-        out.append(f'<rect x="28" y="{y-7:.1f}" width="0" height="10" fill="url(#accent)"><animate attributeName="width" from="0" to="800" dur="0.45s" begin="{i*0.075:.3f}s" fill="freeze"/></rect>')
+        out.append(f'<defs><clipPath id="line{i}"><rect x="28" y="{y-7:.1f}" width="0" height="10"><animate attributeName="width" from="0" to="800" dur="0.45s" begin="{i*0.075:.3f}s" fill="freeze"/></rect></clipPath></defs>')
+        out.append(f'<text x="30" y="{y:.1f}" clip-path="url(#line{i})" font-family="monospace" font-size="8.8" xml:space="preserve" fill="#7DD3FC">{html.escape(row)}</text>')
     out.append('<text x="30" y="450" fill="#94A3B8" font-family="monospace" font-size="12">PYTHON · RAG · MCP · AI/ML</text></svg>')
     (ASSETS / "portrait.svg").write_text("".join(out), encoding="utf-8")
 
