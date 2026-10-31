@@ -3,12 +3,9 @@
 
 ## Profile
 
-<p align="center">
-  <img src="https://github.com/abinash123hg.png" width="180" alt="Abinash Swain profile photo">
-</p>
 <p align="center"><sub>Abinash Swain · AI/ML Developer</sub></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/portrait.svg?v=2" width="100%" alt="Self-typing ASCII portrait generated from Abinash Swain’s profile photo"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/portrait.svg?v=3" width="100%" alt="ASCII portrait generated from Abinash Swain’s GitHub profile photo"></p>
 
 ## GitHub Snapshot
 
