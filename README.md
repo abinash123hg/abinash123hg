@@ -21,8 +21,8 @@ My current focus is retrieval-augmented generation (RAG), document understanding
 
 ## Tech Stack
 
-<p align="center"><img src="https://img.shields.io/badge/Python-0B4F8A?style=for-the-badge&logo=python&logoColor=4ADE80" alt="Python"><img src="https://img.shields.io/badge/Java-0B4F8A?style=for-the-badge&logo=openjdk&logoColor=4ADE80" alt="Java"><img src="https://img.shields.io/badge/JavaScript-0B4F8A?style=for-the-badge&logo=javascript&logoColor=4ADE80" alt="JavaScript"><img src="https://img.shields.io/badge/Git%20%26%20GitHub-0B4F8A?style=for-the-badge&logo=github&logoColor=4ADE80" alt="Git and GitHub"></p>
-<p align="center"><img src="https://img.shields.io/badge/RAG-0B4F8A?style=for-the-badge&logoColor=4ADE80" alt="RAG"><img src="https://img.shields.io/badge/MCP-0B4F8A?style=for-the-badge&logoColor=4ADE80" alt="MCP"><img src="https://img.shields.io/badge/Playwright-0B4F8A?style=for-the-badge&logo=playwright&logoColor=4ADE80" alt="Playwright"><img src="https://img.shields.io/badge/OCR-0B4F8A?style=for-the-badge&logoColor=4ADE80" alt="OCR"></p>
+<p align="center"><img src="https://img.shields.io/badge/Python-101D33?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python"><img src="https://img.shields.io/badge/Java-101D33?style=for-the-badge&logo=openjdk&logoColor=38BDF8" alt="Java"><img src="https://img.shields.io/badge/JavaScript-101D33?style=for-the-badge&logo=javascript&logoColor=38BDF8" alt="JavaScript"><img src="https://img.shields.io/badge/Git%20%26%20GitHub-101D33?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Git and GitHub"></p>
+<p align="center"><img src="https://img.shields.io/badge/RAG-101D33?style=for-the-badge&logoColor=38BDF8" alt="RAG"><img src="https://img.shields.io/badge/MCP-101D33?style=for-the-badge&logoColor=38BDF8" alt="MCP"><img src="https://img.shields.io/badge/Playwright-101D33?style=for-the-badge&logo=playwright&logoColor=38BDF8" alt="Playwright"><img src="https://img.shields.io/badge/OCR-101D33?style=for-the-badge&logoColor=38BDF8" alt="OCR"></p>
 
 ## Connect
 
