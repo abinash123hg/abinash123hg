@@ -2,9 +2,9 @@
 
 ## About
 
-I'm an AI/ML developer passionate about building practical, intelligent applications with Python.
+I'm a B.Tech Computer Science student building practical AI applications with Python.
 
-I focus on RAG systems, browser automation, and evidence-grounded AI — creating tools that deliver reliable answers and solve real-world problems.
+My current focus is retrieval-augmented generation (RAG), document understanding, and browser automation. I enjoy making AI systems more useful by grounding answers in source material and keeping automation transparent.
 
 ## Featured Projects
 
@@ -12,12 +12,12 @@ I focus on RAG systems, browser automation, and evidence-grounded AI — creatin
 
 [![MCP WebPilot — Browser agent, MCP, Playwright and safety audit logs](https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/mcp-card.svg)](https://github.com/abinash123hg/MCP-)
 
-## Skills
+## Skills & Tools
 
-- **AI/ML:** Machine learning, retrieval-augmented generation (RAG), evidence-grounded answers
-- **AI tooling:** Model Context Protocol (MCP), browser agents, OCR
-- **Development:** Python, Java, JavaScript, Playwright
-- **Engineering focus:** Reliable automation, page-level citations, safety audit logs
+- **AI concepts:** Machine learning, retrieval-augmented generation (RAG), OCR
+- **AI tooling:** Model Context Protocol (MCP), browser automation
+- **Languages:** Python, Java, JavaScript
+- **Tools:** Playwright, Git, GitHub
 
 ## Tech Stack
 
@@ -26,12 +26,4 @@ I focus on RAG systems, browser automation, and evidence-grounded AI — creatin
 
 ## Connect
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=4ADE80&center=true&vCenter=true&width=420&lines=LET%27S+CONNECT;BUILD+SOMETHING+GREAT" alt="Let’s connect — build something great"></p>
-<p align="center"><a href="https://github.com/abinash123hg"><font color="#4ADE80">GitHub</font></a> • <a href="https://www.linkedin.com/in/abinash-swain-a941a3330/"><font color="#38BDF8">LinkedIn</font></a> • <a href="https://abinash-swain-portfolio.netlify.app/"><font color="#4ADE80">Portfolio</font></a> • <a href="mailto:swainabinash839@gmail.com"><font color="#38BDF8">Email</font></a></p>
-
-## GitHub Stats
-
-<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=abinash123hg&show_icons=true&bg_color=0B4F8A&title_color=FFFFFF&text_color=E6F6FF&icon_color=4ADE80&border_radius=20&hide_border=true&custom_title=GitHub%20Stats" width="100%" alt="GitHub statistics"></p>
-<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abinash123hg&layout=compact&bg_color=0B4F8A&title_color=FFFFFF&text_color=E6F6FF&icon_color=4ADE80&border_radius=20&hide_border=true&custom_title=Top%20Languages" width="100%" alt="Top programming languages"></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abinash123hg&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=E6F6FF&dates=BEE3F0&background=0B4F8A&border_radius=20&hide_border=true" width="100%" alt="GitHub contribution streak"></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=abinash123hg&label=PROFILE%20VIEWS&labelColor=0B4F8A&color=14B88A&style=for-the-badge" alt="Profile views"></p>
+<p align="center"><a href="https://github.com/abinash123hg">GitHub</a> • <a href="https://www.linkedin.com/in/abinash-swain-a941a3330/">LinkedIn</a> • <a href="https://abinash-swain-portfolio.netlify.app/">Portfolio</a> • <a href="mailto:swainabinash839@gmail.com">Email</a></p>
