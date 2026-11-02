@@ -70,7 +70,7 @@ text{font-family:ui-monospace,Menlo,Consolas,monospace}
     <path class="corner" d="M1178 460V490H1148" fill="none" stroke="#ff7a1a" stroke-opacity=".9" stroke-width="2.6" stroke-linecap="round" style="animation-delay:0.59s"/>
 
     <rect x="720" y="70" width="480" height="420" rx="18" fill="#12151f" stroke="#272e42" stroke-width="1.5"/>
-    <image x="720" y="70" width="480" height="420" href="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/portrait.gif" preserveAspectRatio="xMidYMid slice" clip-path="url(#photoClip)" opacity="0.95"/>
+    <image x="720" y="70" width="480" height="420" href="https://avatars.githubusercontent.com/u/188182157?v=4&s=500" preserveAspectRatio="xMidYMid slice" clip-path="url(#photoClip)" opacity="0.95"/>
     
     <g class="fi" style="animation-delay:.7s">
       <g transform="translate(748,472)" class="spin">
