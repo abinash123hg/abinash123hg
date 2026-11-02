@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎬 HERO -->
-<img src="./assets/hero.svg?v=4" alt="Hi, I'm Abinash Swain — AI & ML Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/hero.svg" alt="Hi, I'm Abinash Swain — AI and ML Developer" width="100%"/>
 
 <br/><br/>
 
@@ -68,7 +68,7 @@ I walk the path of **practical AI**:
 </tr>
 <tr>
 <td><a href="https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant"><b>RAG Vision AI Assistant</b></a></td>
-<td>Local RAG + OCR with page-level citations & evidence grounding</td>
+<td>Local RAG + OCR with page-level citations and evidence grounding</td>
 <td><code>Python</code> <code>RAG</code> <code>OCR</code></td>
 </tr>
 <tr>
@@ -78,12 +78,12 @@ I walk the path of **practical AI**:
 </tr>
 <tr>
 <td><a href="https://github.com/abinash123hg/document-understanding-agent"><b>Document Understanding Agent</b></a></td>
-<td>Handwritten & scanned document Q&A with local understanding</td>
+<td>Handwritten and scanned document Q&A with local understanding</td>
 <td><code>Python</code> <code>OCR</code> <code>RAG</code></td>
 </tr>
 <tr>
 <td><a href="https://github.com/abinash123hg/SafeDrive-AI-Real-Time-Road-Safety-Accident-Hotspot-Prediction-System"><b>SafeDrive AI</b></a></td>
-<td>Real-time accident hotspot prediction & road safety system</td>
+<td>Real-time accident hotspot prediction and road safety system</td>
 <td><code>Python</code> <code>ML</code> <code>Streamlit</code></td>
 </tr>
 </table>
@@ -93,7 +93,7 @@ I walk the path of **practical AI**:
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5qZ3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5/3o7btPCcdNniyf0ArS/giphy.gif" width="160" alt="Rasengan"/>
+  <img src="https://media.giphy.com/media/DOr0ADKYtLCfvfKwjj/giphy.gif" width="160" alt="Naruto run"/>
 </p>
 
 ---
