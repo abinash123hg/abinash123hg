@@ -1,18 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/hero.svg" width="100%" alt="Abinash Swain — Ninja Way"/>
+<!-- 🎬 HERO -->
+<img src="./assets/hero.svg?v=3" alt="Hi, I'm Abinash Swain — AI & ML Developer" width="100%"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/DOr0ADKYtLCfvfKwjj/giphy.gif" alt="Naruto run" width="220"/>
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF7A1A&center=true&vCenter=true&width=720&lines=Believe+it!+%7C+Abinash+Swain;Building+Practical+AI+Systems;RAG+%2B+Document+AI;MCP+Agents+%26+Automation;Dattebayo!" alt="Typing SVG"/>
-
-<br/>
-
-<img src="https://media.giphy.com/media/DOr0ADKYtLCfvfKwjj/giphy.gif" width="200" alt="Naruto run"/>
 
 </div>
-
----
 
 ### 🍥 My Ninja Way
 
@@ -96,12 +93,12 @@ I walk the path of **practical AI**:
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5qZ3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5/3o7btPCcdNniyf0ArS/giphy.gif" width="140" alt="Rasengan"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5qZ3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5d3Z5/3o7btPCcdNniyf0ArS/giphy.gif" width="150" alt="Rasengan"/>
 </p>
 
 ---
 
-### 🌃 Contribution Village
+### 🌃 My contribution village
 
 *Every commit raises another building — rebuilt automatically every day.*
 
@@ -127,7 +124,7 @@ I walk the path of **practical AI**:
 <br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/12KPxqNfRYaEda/giphy.gif" width="100" alt="Chibi Naruto"/>
+  <img src="https://media.giphy.com/media/12KPxqNfRYaEda/giphy.gif" width="90" alt="Chibi Naruto"/>
 </p>
 
 **Dattebayo — keep coding, keep growing.** 🍥
