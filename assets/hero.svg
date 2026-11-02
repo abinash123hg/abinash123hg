@@ -14,8 +14,6 @@ text{font-family:ui-monospace,Menlo,Consolas,monospace}
 .fu{animation:fadeUp .7s cubic-bezier(.2,.8,.2,1) both}
 .fi{animation:fadeIn .7s ease both}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
-.role{animation:role 14s cubic-bezier(.2,.8,.2,1) infinite}
-@keyframes role{0%{opacity:0;transform:translateY(14px)}3.5%{opacity:1;transform:translateY(0)}20%{opacity:1;transform:translateY(0)}23.5%{opacity:0;transform:translateY(-14px)}100%{opacity:0;transform:translateY(-14px)}}
 .spin{transform-box:fill-box;transform-origin:center;animation:spin 9s linear infinite}
 .spin2{transform-box:fill-box;transform-origin:center;animation:spin 14s linear infinite reverse}
 .chakra{animation:rise 5s ease-in-out infinite}
@@ -111,10 +109,7 @@ text{font-family:ui-monospace,Menlo,Consolas,monospace}
     </g>
   </g>
 
-  <text class="role jb" x="82" y="312" font-size="18" fill="#eef1f7" opacity="1" style="animation-delay:2.0s">AI / ML Developer</text>
-  <text class="role jb" x="82" y="312" font-size="18" fill="#eef1f7" opacity="0" style="animation-delay:5.5s">RAG + Document AI Builder</text>
-  <text class="role jb" x="82" y="312" font-size="18" fill="#eef1f7" opacity="0" style="animation-delay:9.0s">MCP Agents + Automation</text>
-  <text class="role jb" x="82" y="312" font-size="18" fill="#eef1f7" opacity="0" style="animation-delay:12.5s">Practical Systems, Not Just Demos</text>
+  <text class="jb" x="82" y="312" font-size="18" fill="#eef1f7">AI / ML Developer · RAG · MCP Agents</text>
 
   <text class="sgm fu" x="52" y="356" font-size="15.5" fill="#8b93a7" style="animation-delay:2.6s">Turning evidence-grounded AI into real tools</text>
   <text class="sgm fu" x="52" y="378" font-size="15.5" fill="#8b93a7" style="animation-delay:2.7s">— one commit at a time.</text>
