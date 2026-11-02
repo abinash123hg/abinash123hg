@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- 🎬 HERO -->
-<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/hero.svg" alt="Hi, I'm Abinash Swain — AI and ML Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/hero.svg" alt="Hi, I'm Abinash Swain" width="100%"/>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/DOr0ADKYtLCfvfKwjj/giphy.gif" alt="Naruto run" width="240"/>
+<img src="https://media.giphy.com/media/DOr0ADKYtLCfvfKwjj/giphy.gif" alt="Naruto run" width="220"/>
 
-<br/><br/>
+<br/>
 
 </div>
 
@@ -16,7 +16,7 @@
 <div align="center">
 
 **Abinash Swain**  
-3rd Year B.Tech CSE (AI & ML) @ **Centurion University of Technology and Management (CUTM)**  
+3rd Year B.Tech CSE (AI / ML) @ **Centurion University of Technology and Management (CUTM)**  
 Data Analyst Intern @ InternPe · Bhubaneswar, Odisha
 
 </div>
@@ -78,7 +78,7 @@ I walk the path of **practical AI**:
 </tr>
 <tr>
 <td><a href="https://github.com/abinash123hg/document-understanding-agent"><b>Document Understanding Agent</b></a></td>
-<td>Handwritten and scanned document Q&A with local understanding</td>
+<td>Handwritten and scanned document Q and A with local understanding</td>
 <td><code>Python</code> <code>OCR</code> <code>RAG</code></td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ I walk the path of **practical AI**:
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/DOr0ADKYtLCfvfKwjj/giphy.gif" width="160" alt="Naruto run"/>
+  <img src="https://media.giphy.com/media/DOr0ADKYtLCfvfKwjj/giphy.gif" width="150" alt="Naruto run"/>
 </p>
 
 ---
@@ -124,7 +124,7 @@ I walk the path of **practical AI**:
 <br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/12KPxqNfRYaEda/giphy.gif" width="100" alt="Chibi Naruto"/>
+  <img src="https://media.giphy.com/media/12KPxqNfRYaEda/giphy.gif" width="90" alt="Chibi Naruto"/>
 </p>
 
 **Dattebayo — keep coding, keep growing.** 🍥
