@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0d13"/><stop offset="1" stop-color="#12151f"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff7a1a"/><stop offset="1" stop-color="#ffb52e"/></linearGradient>
+  </defs>
+  <rect width="900" height="320" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="318" rx="19" fill="none" stroke="#272e42" stroke-width="1.5"/>
+  <text x="40" y="48" font-family="system-ui,sans-serif" font-size="13" fill="#8b93a7" letter-spacing="2">🍥 MY NINJA WAY</text>
+  <text x="40" y="95" font-family="system-ui,sans-serif" font-size="28" font-weight="700" fill="#eef1f7">Believe it — then ship it</text>
+  <text x="40" y="135" font-family="system-ui,sans-serif" font-size="15" fill="#8b93a7">Practical AI systems that work in the field, not just demos.</text>
+  <text x="40" y="175" font-family="ui-monospace,monospace" font-size="14" fill="#ff7a1a">→ RAG with real evidence grounding</text>
+  <text x="40" y="200" font-family="ui-monospace,monospace" font-size="14" fill="#ff7a1a">→ Document AI + OCR that actually understands</text>
+  <text x="40" y="225" font-family="ui-monospace,monospace" font-size="14" fill="#ff7a1a">→ MCP agents + Playwright automation</text>
+  <text x="40" y="270" font-family="system-ui,sans-serif" font-size="13" fill="#8b93a7" font-style="italic">"I don't just watch anime. I code the jutsu."</text>
+  <rect x="40" y="290" width="120" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
