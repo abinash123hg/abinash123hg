@@ -55,7 +55,6 @@ text{font-family:ui-monospace,Menlo,Consolas,monospace}
     <circle cx="640" cy="60" r="150" fill="url(#chakraO)" opacity=".6"/>
   </g>
 
-  <!-- giant watermark leaf emblem -->
   <g transform="translate(300,330)" opacity=".04">
     <g transform="scale(14)">
       <path d="M0-11.5c5 0 9.2 3.4 9.2 7.9 0 3.4-2.4 5.9-5.6 5.9-2.4 0-4.2-1.5-4.2-3.6 0-1.7 1.2-2.9 2.8-2.9 1.1 0 2 .7 2 1.8 0 .8-.5 1.4-1.2 1.6" fill="none" stroke="#ff7a1a" stroke-width="2.1" stroke-linecap="round"/>
@@ -64,7 +63,6 @@ text{font-family:ui-monospace,Menlo,Consolas,monospace}
     </g>
   </g>
 
-  <!-- RIGHT SIDE PHOTO FRAME -->
   <g>
     <path class="corner" d="M742 100V70H772" fill="none" stroke="#ff7a1a" stroke-opacity=".9" stroke-width="2.6" stroke-linecap="round" style="animation-delay:0.35s"/>
     <path class="corner" d="M1178 100V70H1148" fill="none" stroke="#ff7a1a" stroke-opacity=".9" stroke-width="2.6" stroke-linecap="round" style="animation-delay:0.43s"/>
@@ -90,7 +88,6 @@ text{font-family:ui-monospace,Menlo,Consolas,monospace}
     </g>
   </g>
 
-  <!-- LEFT COLUMN -->
   <text clip-path="url(#termClip)" x="52" y="68" font-size="13">
     <tspan class="jbb" fill="#2fd48a">shinobi@konoha</tspan><tspan fill="#8b93a7">:~$ </tspan><tspan fill="#eef1f7">summon </tspan><tspan fill="#ff7a1a">--profile</tspan>
   </text>
