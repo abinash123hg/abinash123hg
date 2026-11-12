@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/solar-banner.svg" alt="Solar system: Abinash Swain as the sun, languages as orbiting planets, repos as moons, recent pushes as comets" width="100%"/>
+<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/solar-banner-v2.svg" alt="Solar system: Abinash Swain as the sun, Python and Java as orbiting planets, repos as moons, recent pushes as comets" width="100%"/>
 
 <sub>I am the sun; my languages are the planets and my projects their moons.</sub>
 
@@ -17,7 +17,7 @@
 
 ## Skills
 
-<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/solar-stack.svg" alt="Language orbits: measured GitHub linguist share TypeScript 47.9, Jupyter Notebook 29.5, Python 17.9, CSS 2.9, Java 1.8 percent; primary focus Java and Python" width="100%"/>
+<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/solar-stack-v2.svg" alt="Skills: Python for ML DL, RAG, OCR and DSA; Java for OOP and coursework; supporting Git, Actions, Playwright, MCP, Streamlit, scikit-learn, Jupyter" width="100%"/>
 
 **Python** — ML/DL from scratch (NumPy, PyTorch), RAG/OCR pipelines, DSA. Evidence: [python](https://github.com/abinash123hg/python), [RAG assistant](https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant), [document agent](https://github.com/abinash123hg/document-understanding-agent).
 **Java** — OOP, collections, university coursework. Evidence: [2nd-year-java-project](https://github.com/abinash123hg/2nd-year-java-project), [kulu.java](https://github.com/abinash123hg/kulu.java).
@@ -26,8 +26,6 @@
 ## Contribution activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abinash123hg&theme=github-dark&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/stats-dark.svg" alt="GitHub snapshot: public repositories and language share" width="100%"/>
 
 ## Contact
 
