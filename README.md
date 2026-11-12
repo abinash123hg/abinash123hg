@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/solar-system.svg" alt="Solar system: Abinash Swain as the sun, languages as orbiting planets, repos as moons, recent pushes as comets" width="100%"/>
+<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/solar-banner.svg" alt="Solar system: Abinash Swain as the sun, languages as orbiting planets, repos as moons, recent pushes as comets" width="100%"/>
 
 <sub>I am the sun; my languages are the planets and my projects their moons.</sub>
 
