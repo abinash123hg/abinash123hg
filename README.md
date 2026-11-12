@@ -5,7 +5,7 @@
 
 ## About
 
-<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/solar-about.svg" alt="About Abinash Swain: B.Tech CSE AI and ML at Centurion University Odisha, InternPe AI/ML and Data Science intern, builds local evidence-grounded RAG OCR and MCP tools, primary languages Java and Python" width="100%"/>
+<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/solar-about-v2.svg" alt="About Abinash Swain: B.Tech CSE AI and ML at Centurion University Odisha batch of 2024, InternPe AI/ML and Data Science intern 10 Aug to 6 Sep 2026 certificate IPI#87258, builds local evidence-grounded RAG OCR and MCP agents, status open to AI/ML internships" width="100%"/>
 
 ## Projects
 
@@ -22,6 +22,10 @@
 **Python** — ML/DL from scratch (NumPy, PyTorch), RAG/OCR pipelines, DSA. Evidence: [python](https://github.com/abinash123hg/python), [RAG assistant](https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant), [document agent](https://github.com/abinash123hg/document-understanding-agent).
 **Java** — OOP, collections, university coursework. Evidence: [2nd-year-java-project](https://github.com/abinash123hg/2nd-year-java-project), [kulu.java](https://github.com/abinash123hg/kulu.java).
 **Supporting** — Git, GitHub Actions, Playwright, MCP, Streamlit, scikit-learn, Jupyter.
+
+## Mission log
+
+<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/solar-mission-log.svg" alt="Mission log timeline with real dates: Nov 2024 B.Tech begins and first push, Jul 2025 Java coursework, Jan 2026 ML from scratch and DSA, Aug 2026 InternPe internship with SafeDrive AI, Sep 2026 RAG document agent and MCP shipped, now open to AI/ML internships" width="100%"/>
 
 ## Contribution activity
 
