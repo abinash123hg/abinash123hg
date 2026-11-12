@@ -1,46 +1,15 @@
-# Abinash Swain
-
-**AI/ML Developer · B.Tech CSE (AI & ML) · Centurion University of Technology and Management, Odisha**
-
-<a href="https://www.linkedin.com/in/abinash-swain-a941a3330/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:swainabinash839@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://abinash-swain-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/abinash123hg"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/portrait.svg" alt="ASCII portrait of Abinash Swain" width="100%"/>
+<!-- HEADER -->
+<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/solar-system.svg" alt="Solar system banner: Abinash Swain as the sun, Java and Python as planets, recent pushes as comets" width="100%"/>
 
 ## About
 
 - Third-year B.Tech CSE (AI & ML) student at Centurion University of Technology and Management, Odisha
 - AI & Machine Learning and Data Science & Analytics intern at InternPe (Aug 2026 - Sep 2026)
 - Build local, evidence-grounded AI tools: RAG pipelines with page-level citations, OCR document understanding, and MCP browser agents
-- Practice machine learning and deep learning from scratch (NumPy, PyTorch) alongside DSA in Python
+- Primary languages: **Java** and **Python** - ML/DL from scratch in Python, OOP and coursework in Java
 - Open to AI/ML internships and collaboration on applied research projects
 
-## Tech Stack
-
-**Languages**
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-
-**ML & Data**
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-
-**Tools & Platforms**
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
-<img src="https://img.shields.io/badge/MCP-000000?style=flat-square" alt="Model Context Protocol"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
-
-## Featured Projects
+## Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
@@ -48,14 +17,36 @@
 | [MCP WebPilot](https://github.com/abinash123hg/MCP-) | Browser agent workflows using MCP + Playwright with safety audit logs | MCP, Playwright |
 | [Document Understanding Agent](https://github.com/abinash123hg/document-understanding-agent) | Handwritten and scanned document Q&A with local understanding | Python, OCR, RAG |
 | [SafeDrive AI](https://github.com/abinash123hg/SafeDrive-AI-Real-Time-Road-Safety-Accident-Hotspot-Prediction-System) | Real-time accident hotspot prediction and road safety system | Python, ML, Streamlit |
+| [ML/DL + DSA practice](https://github.com/abinash123hg/python) | From-scratch regression, k-means, backprop MLP (NumPy/PyTorch) and DSA solutions with tests | Python, NumPy, PyTorch |
+| [Java coursework](https://github.com/abinash123hg/2nd-year-java-project) | Second-year OOP and data-structures coursework in Java | Java |
 
 [See all repositories](https://github.com/abinash123hg?tab=repositories)
 
-## GitHub Stats
+## Skills
+
+**Python** - machine learning and deep learning from scratch (NumPy, PyTorch), RAG/OCR pipelines, data analysis with Pandas, DSA practice.
+Evidence: [python](https://github.com/abinash123hg/python), [retrieval-augmented-vision-ai-assistant](https://github.com/abinash123hg/retrieval-augmented-vision-ai-assistant), [document-understanding-agent](https://github.com/abinash123hg/document-understanding-agent)
+
+**Java** - object-oriented programming, collections, and university coursework projects.
+Evidence: [2nd-year-java-project](https://github.com/abinash123hg/2nd-year-java-project), [kulu.java](https://github.com/abinash123hg/kulu.java), [kulujava](https://github.com/abinash123hg/kulujava)
+
+**Supporting tools** - Git, GitHub Actions, Playwright, MCP, Streamlit, scikit-learn, Matplotlib, Jupyter.
+
+Measured code share across public repos (GitHub linguist, 2026-11-12):
+TypeScript 47.9% · Jupyter Notebook 29.5% · Python 17.9% · CSS 2.9% · Java 1.8%
+
+## Contribution activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abinash123hg&theme=github-dark&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/stats-dark.svg" alt="GitHub snapshot: public repositories and language share" width="100%"/>
 
 ## Contact
+
+<a href="https://www.linkedin.com/in/abinash-swain-a941a3330/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:swainabinash839@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://abinash-swain-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/abinash123hg"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
 - Email: [swainabinash839@gmail.com](mailto:swainabinash839@gmail.com)
 - LinkedIn: [abinash-swain-a941a3330](https://www.linkedin.com/in/abinash-swain-a941a3330/)

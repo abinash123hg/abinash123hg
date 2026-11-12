@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-label="Solar system profile banner: Abinash Swain as the sun, Java and Python as orbiting planets, recent pushes as comets">
+  <rect width="1200" height="420" fill="#0D1117"/>
+  <g fill="#8B949E">
+    <circle cx="60" cy="120" r="1.2"/><circle cx="210" cy="40" r="1"/><circle cx="330" cy="150" r="1.4"/>
+    <circle cx="420" cy="60" r="1"/><circle cx="520" cy="110" r="1.2"/><circle cx="700" cy="40" r="1"/>
+    <circle cx="820" cy="120" r="1.4"/><circle cx="940" cy="60" r="1"/><circle cx="1120" cy="140" r="1.2"/>
+    <circle cx="1160" cy="240" r="1"/><circle cx="1080" cy="390" r="1.2"/><circle cx="900" cy="380" r="1"/>
+    <circle cx="760" cy="350" r="1.2"/><circle cx="480" cy="380" r="1"/><circle cx="300" cy="360" r="1.4"/>
+    <circle cx="120" cy="240" r="1"/><circle cx="40" cy="330" r="1.2"/><circle cx="640" cy="390" r="1"/>
+    <circle cx="980" cy="200" r="1.2"/><circle cx="250" cy="200" r="1"/>
+  </g>
+  <text x="40" y="52" font-family="system-ui,sans-serif" font-size="34" font-weight="700" fill="#F0F6FC">Abinash Swain</text>
+  <text x="40" y="78" font-family="system-ui,sans-serif" font-size="14" fill="#8B949E">AI/ML Developer · B.Tech CSE (AI &amp; ML) · CUTM Odisha</text>
+  <g stroke="#30363D" fill="none">
+    <circle cx="600" cy="225" r="100"/>
+    <circle cx="600" cy="225" r="160"/>
+  </g>
+  <circle cx="600" cy="225" r="40" fill="#D29922"/>
+  <circle cx="600" cy="225" r="48" fill="none" stroke="#D29922" stroke-opacity="0.35" stroke-width="6"/>
+  <text x="600" y="230" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="700" fill="#0D1117">ABINASH</text>
+  <text x="600" y="290" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" fill="#8B949E">the sun · profile owner</text>
+  <circle cx="506" cy="259" r="16" fill="#3572A5"/>
+  <text x="506" y="264" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" font-weight="700" fill="#F0F6FC">Py</text>
+  <text x="480" y="263" text-anchor="end" font-family="system-ui,sans-serif" font-size="13" fill="#F0F6FC">Python</text>
+  <circle cx="750" cy="170" r="14" fill="#B07219"/>
+  <text x="750" y="175" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" font-weight="700" fill="#F0F6FC">Jv</text>
+  <text x="774" y="174" font-family="system-ui,sans-serif" font-size="13" fill="#F0F6FC">Java</text>
+  <g stroke-linecap="round">
+    <line x1="90" y1="40" x2="168" y2="70" stroke="#58A6FF" stroke-opacity="0.5" stroke-width="2"/>
+    <circle cx="170" cy="71" r="3.5" fill="#58A6FF"/>
+    <line x1="1110" y1="50" x2="1032" y2="88" stroke="#3FB950" stroke-opacity="0.5" stroke-width="2"/>
+    <circle cx="1030" cy="89" r="3.5" fill="#3FB950"/>
+    <line x1="70" y1="370" x2="148" y2="331" stroke="#F778BA" stroke-opacity="0.5" stroke-width="2"/>
+    <circle cx="150" cy="330" r="3.5" fill="#F778BA"/>
+    <line x1="1130" y1="360" x2="1052" y2="321" stroke="#D29922" stroke-opacity="0.5" stroke-width="2"/>
+    <circle cx="1050" cy="320" r="3.5" fill="#D29922"/>
+    <line x1="350" y1="20" x2="350" y2="58" stroke="#A5D6FF" stroke-opacity="0.5" stroke-width="2"/>
+    <circle cx="350" cy="60" r="3.5" fill="#A5D6FF"/>
+  </g>
+  <g font-family="ui-monospace,monospace" font-size="11" fill="#8B949E">
+    <text x="182" y="75">python · Nov 12</text>
+    <text x="1018" y="93" text-anchor="end">leetcodechallange · Nov 12</text>
+    <text x="162" y="334">abinash123hg · Nov 12</text>
+    <text x="1038" y="324" text-anchor="end">document-understanding-agent · Nov 4</text>
+    <text x="362" y="64">retrieval-augmented-vision-ai-assistant · Nov 4</text>
+  </g>
+  <text x="40" y="398" font-family="ui-monospace,monospace" font-size="11" fill="#8B949E">planets = languages · comets = recent pushes · snapshot 2026-11-12</text>
+</svg>
