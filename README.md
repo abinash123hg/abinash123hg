@@ -55,8 +55,6 @@
 
 <img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/stats-dark.svg" alt="GitHub snapshot: public repositories and language share" width="100%"/>
 
-<img src="https://github-readme-streak-stats.demolab.com?user=abinash123hg&theme=dark&hide_border=true" alt="Contribution streak" width="100%"/>
-
 ## Contact
 
 - Email: [swainabinash839@gmail.com](mailto:swainabinash839@gmail.com)
