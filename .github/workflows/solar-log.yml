@@ -1,0 +1,31 @@
+name: Refresh contribution activity
+on:
+  schedule:
+    - cron: "23 5 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/generate_contribution_log.py"
+      - ".github/workflows/solar-log.yml"
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Generate contribution activity card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME_REPO: ${{ github.repository_owner }}
+        run: python scripts/generate_contribution_log.py
+      - name: Commit generated asset only when changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/solar-contribution.svg
+          git diff --cached --quiet || git commit -m "Refresh contribution activity card"
+          git push

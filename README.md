@@ -25,7 +25,7 @@
 
 ## Contribution activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abinash123hg&theme=github-dark&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/abinash123hg/abinash123hg/main/assets/solar-contribution.svg" alt="Contribution activity: last 26 weeks of real GitHub contributions, weekly bars, streaks" width="100%"/>
 
 ## Contact
 
